@@ -1,0 +1,501 @@
+id,name,type,language,genres,status,runtime,averageRuntime,premiered,ended,rating_average,weight,network_name,network_country,web_channel_name,updated,url
+1,Under the Dome,Scripted,English,Drama|Science-Fiction|Thriller,Ended,60.0,60.0,2013-06-24,2015-09-10,6.6,100,CBS,US,,1789071819,https://www.tvmaze.com/shows/1/under-the-dome
+2,Person of Interest,Scripted,English,Action|Crime|Science-Fiction,Ended,60.0,60.0,2011-09-22,2016-06-21,8.8,100,CBS,US,,1795470488,https://www.tvmaze.com/shows/2/person-of-interest
+3,Bitten,Scripted,English,Drama|Horror|Romance,Ended,60.0,60.0,2014-01-11,2016-04-15,7.4,99,CTV Sci-Fi Channel,CA,,1793601620,https://www.tvmaze.com/shows/3/bitten
+4,Arrow,Scripted,English,Drama|Action|Science-Fiction,Ended,60.0,60.0,2012-10-10,2020-01-28,7.4,100,The CW,US,,1766868900,https://www.tvmaze.com/shows/4/arrow
+5,True Detective,Scripted,English,Drama|Crime|Thriller,Running,60.0,63.0,2014-01-12,,8.1,100,HBO,US,,1792219112,https://www.tvmaze.com/shows/5/true-detective
+6,The 100,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,2014-03-19,2020-09-30,7.7,100,The CW,US,,1767037139,https://www.tvmaze.com/shows/6/the-100
+7,Homeland,Scripted,English,Drama|Thriller|Espionage,Ended,60.0,60.0,2011-10-02,2020-04-26,8.2,100,Paramount+ with Showtime,US,,1737321678,https://www.tvmaze.com/shows/7/homeland
+8,Glee,Scripted,English,Drama|Music|Romance,Ended,,60.0,2009-05-19,2015-03-20,6.6,99,,,Disney+,1794144826,https://www.tvmaze.com/shows/8/glee
+9,Revenge,Scripted,English,Drama|Thriller|Mystery,Ended,60.0,60.0,2011-09-21,2015-05-10,7.8,99,ABC,US,,1766502493,https://www.tvmaze.com/shows/9/revenge
+10,Grimm,Scripted,English,Drama|Crime|Supernatural,Ended,60.0,60.0,2011-10-28,2017-03-31,8.4,100,NBC,US,,1786297847,https://www.tvmaze.com/shows/10/grimm
+11,Gotham,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2014-09-22,2019-04-25,7.7,100,FOX,US,,1789746159,https://www.tvmaze.com/shows/11/gotham
+12,Lost Girl,Scripted,English,Drama|Fantasy|Horror,Ended,60.0,60.0,2010-09-12,2015-10-25,7.9,99,Showcase,CA,,1727612690,https://www.tvmaze.com/shows/12/lost-girl
+13,The Flash,Scripted,English,Drama|Action|Science-Fiction,Ended,60.0,60.0,2014-10-07,2023-05-24,7.5,100,The CW,US,,1779693200,https://www.tvmaze.com/shows/13/the-flash
+14,Continuum,Scripted,English,Drama|Crime|Science-Fiction,Ended,60.0,60.0,2012-05-27,2015-10-09,8.0,100,Showcase,CA,,1761415756,https://www.tvmaze.com/shows/14/continuum
+15,Constantine,Scripted,English,Drama|Action|Horror,Ended,60.0,60.0,2014-10-24,2015-02-13,7.5,100,NBC,US,,1746674890,https://www.tvmaze.com/shows/15/constantine
+16,Penny Dreadful,Scripted,English,Horror|Thriller|Supernatural,Ended,60.0,60.0,2014-05-11,2016-06-19,8.2,100,Paramount+ with Showtime,US,,1751267205,https://www.tvmaze.com/shows/16/penny-dreadful
+18,The Amazing Race,Reality,English,Action|Adventure|Family,Running,90.0,65.0,2001-09-05,,6.8,99,CBS,US,,1795376276,https://www.tvmaze.com/shows/18/the-amazing-race
+19,Supernatural,Scripted,English,Drama|Action|Supernatural,Ended,60.0,60.0,2005-09-13,2020-11-19,8.4,100,The CW,US,,1793402585,https://www.tvmaze.com/shows/19/supernatural
+20,The Strain,Scripted,English,Drama|Horror|Thriller,Ended,60.0,61.0,2014-07-13,2017-09-17,7.4,100,FX,US,,1704793860,https://www.tvmaze.com/shows/20/the-strain
+21,The Last Ship,Scripted,English,Drama|Action|Thriller,Ended,60.0,60.0,2014-06-22,2018-11-11,7.5,100,TNT,US,,1774893065,https://www.tvmaze.com/shows/21/the-last-ship
+22,True Blood,Scripted,English,Drama|Romance|Supernatural,Ended,60.0,60.0,2008-09-07,2014-08-24,7.9,99,HBO,US,,1776863921,https://www.tvmaze.com/shows/22/true-blood
+23,Once Upon a Time in Wonderland,Scripted,English,Drama|Adventure|Fantasy,Ended,60.0,60.0,2013-10-10,2014-04-03,6.9,95,ABC,US,,1785864742,https://www.tvmaze.com/shows/23/once-upon-a-time-in-wonderland
+24,Hawaii Five-0,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2010-09-20,2020-04-03,7.7,99,CBS,US,,1788877166,https://www.tvmaze.com/shows/24/hawaii-five-0
+25,Hellsing,Animation,Japanese,Anime|Horror|Supernatural,Ended,30.0,30.0,2001-10-10,2002-01-16,7.3,93,Fuji TV,JP,,1792884704,https://www.tvmaze.com/shows/25/hellsing
+26,Hellsing Ultimate,Animation,Japanese,Drama|Action|Anime|Horror,Ended,50.0,50.0,2006-02-10,2012-12-26,7.3,90,TBS,JP,,1792884983,https://www.tvmaze.com/shows/26/hellsing-ultimate
+27,Berserk,Animation,Japanese,Anime|Fantasy|Horror,Ended,25.0,25.0,1997-10-07,1998-03-31,8.0,95,NTV,JP,,1734877445,https://www.tvmaze.com/shows/27/berserk
+28,Californication,Scripted,English,Drama|Comedy,Ended,30.0,30.0,2007-08-13,2014-06-29,7.9,98,Paramount+ with Showtime,US,,1771015345,https://www.tvmaze.com/shows/28/californication
+29,Vikings,Scripted,English,Drama|Action|History,Ended,60.0,60.0,2013-03-03,2021-03-05,8.6,99,History,CA,,1792561518,https://www.tvmaze.com/shows/29/vikings
+30,American Horror Story,Scripted,English,Drama|Horror|Thriller,Running,30.0,59.0,2011-10-05,,7.4,100,FX,US,,1793385736,https://www.tvmaze.com/shows/30/american-horror-story
+31,Marvel's Agents of S.H.I.E.L.D.,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,2013-09-24,2020-08-12,8.0,99,ABC,US,,1792479769,https://www.tvmaze.com/shows/31/marvels-agents-of-shield
+32,Fargo,Scripted,English,Drama|Comedy|Crime,To Be Determined,60.0,67.0,2014-04-15,,8.6,100,FX,US,,1777231823,https://www.tvmaze.com/shows/32/fargo
+33,Hemlock Grove,Scripted,English,Drama|Horror|Thriller,Ended,,52.0,2013-04-19,2015-10-23,6.9,96,,,Netflix,1704793812,https://www.tvmaze.com/shows/33/hemlock-grove
+34,Helix,Scripted,English,Horror|Science-Fiction|Thriller,Ended,60.0,60.0,2014-01-10,2015-04-10,6.5,98,Syfy,US,,1704793831,https://www.tvmaze.com/shows/34/helix
+35,The Killing,Scripted,English,Drama|Crime|Thriller,Ended,60.0,60.0,2011-04-03,2014-08-01,8.2,98,AMC,US,,1704794168,https://www.tvmaze.com/shows/35/the-killing
+37,Intruders,Scripted,English,Drama|Fantasy|Thriller,Ended,60.0,60.0,2014-08-23,2014-10-11,7.1,88,BBC America,US,,1724105300,https://www.tvmaze.com/shows/37/intruders
+38,Z Nation,Scripted,English,Action|Horror|Science-Fiction,Ended,60.0,61.0,2014-09-12,2018-12-28,7.2,98,Syfy,US,,1782330833,https://www.tvmaze.com/shows/38/z-nation
+39,Resurrection,Scripted,English,Drama|Science-Fiction|Mystery,Ended,60.0,60.0,2014-03-09,2015-01-25,7.1,96,ABC,US,,1704793806,https://www.tvmaze.com/shows/39/resurrection
+40,Death Note,Animation,Japanese,Anime|Fantasy|Thriller,Ended,30.0,30.0,2006-10-03,2007-06-26,8.8,98,NTV,JP,,1765767086,https://www.tvmaze.com/shows/40/death-note
+41,Last Man Standing,Scripted,English,Comedy|Family,Ended,30.0,30.0,2011-10-11,2021-05-20,7.8,98,FOX,US,,1749876987,https://www.tvmaze.com/shows/41/last-man-standing
+42,Sleepy Hollow,Scripted,English,Drama|Mystery|Supernatural,Ended,60.0,60.0,2013-09-16,2017-03-31,7.5,99,FOX,US,,1780264802,https://www.tvmaze.com/shows/42/sleepy-hollow
+43,Outlander,Scripted,English,Adventure|Romance|Science-Fiction,Ended,60.0,61.0,2014-08-09,2026-05-15,7.9,99,STARZ,US,,1778905838,https://www.tvmaze.com/shows/43/outlander
+44,Scorpion,Scripted,English,Drama|Action|Thriller,Ended,60.0,60.0,2014-09-22,2018-04-16,7.3,99,CBS,US,,1752376604,https://www.tvmaze.com/shows/44/scorpion
+45,NCIS: New Orleans,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2014-09-23,2021-05-23,7.5,98,CBS,US,,1787095111,https://www.tvmaze.com/shows/45/ncis-new-orleans
+46,Forever,Scripted,English,Drama|Crime|Supernatural,Ended,60.0,60.0,2014-09-22,2015-05-05,8.1,98,ABC,US,,1754859247,https://www.tvmaze.com/shows/46/forever
+47,Witches of East End,Scripted,English,Drama|Fantasy|Romance,Ended,60.0,60.0,2013-10-06,2014-10-05,7.5,97,Lifetime,US,,1704794047,https://www.tvmaze.com/shows/47/witches-of-east-end
+48,Madam Secretary,Scripted,English,Drama,Ended,60.0,60.0,2014-09-21,2019-12-08,7.7,98,CBS,US,,1795021940,https://www.tvmaze.com/shows/48/madam-secretary
+49,Brooklyn Nine-Nine,Scripted,English,Comedy|Action|Crime,Ended,30.0,30.0,2013-09-17,2021-09-16,8.1,99,NBC,US,,1788216606,https://www.tvmaze.com/shows/49/brooklyn-nine-nine
+50,The Lottery,Scripted,English,Drama|Science-Fiction|Thriller,Ended,60.0,60.0,2014-07-20,2014-09-28,6.5,87,Lifetime,US,,1617627234,https://www.tvmaze.com/shows/50/the-lottery
+51,The Knick,Scripted,English,Drama|Medical,Ended,60.0,60.0,2014-08-08,2015-12-18,8.3,98,Cinemax,US,,1704794032,https://www.tvmaze.com/shows/51/the-knick
+52,How to Get Away with Murder,Scripted,English,Drama|Thriller|Legal,Ended,60.0,60.0,2014-09-25,2020-05-14,7.6,98,ABC,US,,1786545365,https://www.tvmaze.com/shows/52/how-to-get-away-with-murder
+53,Nashville,Scripted,English,Drama|Music|Romance,Ended,60.0,60.0,2012-10-10,2018-07-26,7.4,98,CMT,US,,1764604787,https://www.tvmaze.com/shows/53/nashville
+54,Legends,Scripted,English,Drama|Crime|Thriller,Ended,60.0,60.0,2014-08-13,2015-12-28,7.5,98,TNT,US,,1793601079,https://www.tvmaze.com/shows/54/legends
+55,Red Band Society,Scripted,English,Drama|Comedy,Ended,60.0,60.0,2014-09-17,2015-02-07,7.7,97,FOX,US,,1704793805,https://www.tvmaze.com/shows/55/red-band-society
+56,Chicago P.D.,Scripted,English,Drama|Crime,Running,60.0,60.0,2014-01-08,,8.0,100,NBC,US,,1795469643,https://www.tvmaze.com/shows/56/chicago-pd
+57,black-ish,Scripted,English,Comedy|Family,Ended,30.0,30.0,2014-09-24,2022-04-19,6.2,98,ABC,US,,1783947179,https://www.tvmaze.com/shows/57/black-ish
+58,New Girl,Scripted,English,Comedy|Romance,Ended,30.0,30.0,2011-09-20,2018-05-15,7.3,98,FOX,US,,1769973133,https://www.tvmaze.com/shows/58/new-girl
+59,Chicago Fire,Scripted,English,Drama|Action,Running,60.0,60.0,2012-10-10,,8.0,100,NBC,US,,1795469476,https://www.tvmaze.com/shows/59/chicago-fire
+60,NCIS,Scripted,English,Drama|Action|Crime,Running,60.0,60.0,2003-09-23,,7.9,100,CBS,US,,1795158106,https://www.tvmaze.com/shows/60/ncis
+61,Orphan Black,Scripted,English,Drama|Science-Fiction|Thriller,Ended,60.0,60.0,2013-03-30,2017-08-12,8.6,98,CTV Sci-Fi Channel,CA,,1753333432,https://www.tvmaze.com/shows/61/orphan-black
+62,The Originals,Scripted,English,Drama|Romance|Supernatural,Ended,60.0,60.0,2013-10-03,2018-08-01,8.2,99,The CW,US,,1783364545,https://www.tvmaze.com/shows/62/the-originals
+63,The Vampire Diaries,Scripted,English,Drama|Romance|Supernatural,Ended,60.0,60.0,2009-09-10,2017-03-10,7.9,99,The CW,US,,1784214613,https://www.tvmaze.com/shows/63/the-vampire-diaries
+64,Utopia,Scripted,English,Drama|Science-Fiction|Thriller,Ended,60.0,60.0,2013-01-15,2014-08-12,8.4,99,Channel 4,GB,,1704794594,https://www.tvmaze.com/shows/64/utopia
+65,Bones,Scripted,English,Drama|Crime|Medical,Ended,60.0,60.0,2005-09-13,2017-03-28,8.1,99,FOX,US,,1795356717,https://www.tvmaze.com/shows/65/bones
+66,The Big Bang Theory,Scripted,English,Comedy,Ended,30.0,30.0,2007-09-24,2019-05-16,8.0,99,CBS,US,,1789114241,https://www.tvmaze.com/shows/66/the-big-bang-theory
+67,Grey's Anatomy,Scripted,English,Drama|Romance|Medical,Running,60.0,60.0,2005-03-27,,7.6,100,ABC,US,,1795225284,https://www.tvmaze.com/shows/67/greys-anatomy
+68,Castle,Scripted,English,Drama|Crime|Mystery,Ended,40.0,60.0,2009-03-09,2016-05-16,8.2,99,ABC,US,,1787111207,https://www.tvmaze.com/shows/68/castle
+69,The Blacklist,Scripted,English,Drama|Crime|Thriller,Ended,60.0,60.0,2013-09-23,2023-07-13,8.0,99,NBC,US,,1781490586,https://www.tvmaze.com/shows/69/the-blacklist
+70,The Voice,Reality,English,Music,Running,120.0,96.0,2011-04-26,,5.8,99,NBC,US,,1795397074,https://www.tvmaze.com/shows/70/the-voice
+71,Dancing with the Stars,Reality,English,Family,Running,120.0,117.0,2005-06-01,,6.5,99,ABC,US,Disney+,1795138374,https://www.tvmaze.com/shows/71/dancing-with-the-stars
+72,NCIS: Los Angeles,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2009-09-22,2023-05-21,7.9,99,CBS,US,,1773093666,https://www.tvmaze.com/shows/72/ncis-los-angeles
+73,The Walking Dead,Scripted,English,Drama|Action|Horror,Ended,,62.0,2010-10-31,2022-11-20,7.9,99,,,AMC+,1772123469,https://www.tvmaze.com/shows/73/the-walking-dead
+74,Hell on Wheels,Scripted,English,Drama|Action|Western,Ended,60.0,60.0,2011-11-06,2016-07-23,8.2,96,AMC,US,,1704794381,https://www.tvmaze.com/shows/74/hell-on-wheels
+75,The Mindy Project,Scripted,English,Comedy|Romance|Medical,Ended,,30.0,2012-09-25,2017-11-14,7.0,94,,,Hulu,1792523681,https://www.tvmaze.com/shows/75/the-mindy-project
+76,Sons of Anarchy,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2008-09-03,2014-12-09,8.3,99,FX,US,,1785469122,https://www.tvmaze.com/shows/76/sons-of-anarchy
+77,The Middle,Scripted,English,Comedy|Family,Ended,30.0,30.0,2009-09-30,2018-05-22,8.1,99,ABC,US,,1794442534,https://www.tvmaze.com/shows/77/the-middle
+78,The Mysteries of Laura,Scripted,English,Comedy|Crime|Mystery,Ended,60.0,60.0,2014-09-17,2016-03-02,7.3,99,NBC,US,,1764854697,https://www.tvmaze.com/shows/78/the-mysteries-of-laura
+79,The Goldbergs,Scripted,English,Comedy|Family,Ended,30.0,30.0,2013-09-24,2023-05-03,7.5,98,ABC,US,,1739148024,https://www.tvmaze.com/shows/79/the-goldbergs
+80,Modern Family,Scripted,English,Comedy|Family,Ended,30.0,30.0,2009-09-23,2020-04-08,7.8,99,ABC,US,,1788868742,https://www.tvmaze.com/shows/80/modern-family
+81,Criminal Minds,Scripted,English,Drama|Crime|Thriller,Running,,59.0,2005-09-22,,8.1,100,,,Paramount+,1790278163,https://www.tvmaze.com/shows/81/criminal-minds
+82,Game of Thrones,Scripted,English,Drama|Adventure|Fantasy,Ended,60.0,61.0,2011-04-17,2019-05-19,8.9,100,HBO,US,,1787682562,https://www.tvmaze.com/shows/82/game-of-thrones
+83,The Simpsons,Animation,English,Comedy|Family,Running,30.0,30.0,1989-12-17,,8.1,100,FOX,US,,1795463237,https://www.tvmaze.com/shows/83/the-simpsons
+84,Family Guy,Animation,English,Comedy|Family,Running,30.0,30.0,1999-01-31,,7.5,100,FOX,US,,1791657455,https://www.tvmaze.com/shows/84/family-guy
+86,Stalker,Scripted,English,Crime|Thriller,Ended,60.0,60.0,2014-10-01,2015-05-18,7.4,92,CBS,US,,1792647952,https://www.tvmaze.com/shows/86/stalker
+87,The Bridge,Scripted,English,Drama|Crime|Thriller,Ended,60.0,60.0,2013-07-10,2014-10-01,7.5,92,FX,US,,1739332418,https://www.tvmaze.com/shows/87/the-bridge
+88,Reign,Scripted,English,Drama|Romance|History,Ended,60.0,60.0,2013-10-17,2017-06-16,7.6,99,The CW,US,,1704793858,https://www.tvmaze.com/shows/88/reign
+89,Unforgettable,Scripted,English,Drama|Crime,Ended,60.0,60.0,2011-09-20,2016-01-22,7.5,99,A&E,US,,1792498311,https://www.tvmaze.com/shows/89/unforgettable
+90,Haven,Scripted,English,Drama|Crime|Supernatural,Ended,60.0,60.0,2010-07-09,2015-12-17,8.0,95,Syfy,US,,1777374787,https://www.tvmaze.com/shows/90/haven
+91,Bad Judge,Scripted,English,Comedy|Family,Ended,30.0,30.0,2014-10-02,2015-01-22,7.4,95,NBC,US,,1775995718,https://www.tvmaze.com/shows/91/bad-judge
+92,A to Z,Scripted,English,Comedy|Romance,Ended,30.0,30.0,2014-10-02,2015-01-22,6.7,87,NBC,US,,1717032609,https://www.tvmaze.com/shows/92/a-to-z
+93,Parenthood,Scripted,English,Drama|Comedy|Family,Ended,60.0,60.0,2010-03-02,2015-01-29,7.9,98,NBC,US,,1750099227,https://www.tvmaze.com/shows/93/parenthood
+94,Defiance,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,62.0,2013-04-15,2015-08-28,7.8,98,Syfy,US,,1795334063,https://www.tvmaze.com/shows/94/defiance
+95,Falling Skies,Scripted,English,Drama|Action|Science-Fiction,Ended,60.0,60.0,2011-06-19,2015-08-30,7.6,97,TNT,US,,1736886356,https://www.tvmaze.com/shows/95/falling-skies
+96,Manhattan Love Story,Scripted,English,Comedy|Romance,Ended,30.0,30.0,2014-09-30,2014-12-04,5.4,90,ABC,US,,1704793860,https://www.tvmaze.com/shows/96/manhattan-love-story
+97,The Biggest Loser,Reality,English,,Ended,60.0,66.0,2004-10-19,2020-03-31,6.0,89,USA Network,US,,1792917830,https://www.tvmaze.com/shows/97/the-biggest-loser
+98,Scandal,Scripted,English,Drama|Thriller,Ended,60.0,60.0,2012-04-05,2018-04-19,7.9,98,ABC,US,,1779817825,https://www.tvmaze.com/shows/98/scandal
+99,America's Next Top Model,Reality,English,,Ended,60.0,60.0,2003-05-20,2018-04-11,5.5,94,VH1,US,,1766259824,https://www.tvmaze.com/shows/99/americas-next-top-model
+100,Blue Bloods,Scripted,English,Drama|Crime,Ended,60.0,60.0,2010-09-24,2024-12-13,8.1,99,CBS,US,,1794693048,https://www.tvmaze.com/shows/100/blue-bloods
+101,The Good Wife,Scripted,English,Drama|Crime|Legal,Ended,60.0,60.0,2009-09-22,2016-05-08,8.1,99,CBS,US,,1792092308,https://www.tvmaze.com/shows/101/the-good-wife
+102,Boardwalk Empire,Scripted,English,Drama|Crime,Ended,60.0,60.0,2010-09-19,2014-10-26,8.3,96,HBO,US,,1755453455,https://www.tvmaze.com/shows/102/boardwalk-empire
+103,Law & Order: Special Victims Unit,Scripted,English,Drama|Crime|Legal,Running,60.0,60.0,1999-09-20,,7.9,100,NBC,US,,1795322216,https://www.tvmaze.com/shows/103/law-order-special-victims-unit
+104,Dominion,Scripted,English,Action|Adventure|Fantasy,Ended,60.0,60.0,2014-06-19,2015-10-01,7.2,96,Syfy,US,,1773065307,https://www.tvmaze.com/shows/104/dominion
+105,From Dusk Till Dawn: The Series,Scripted,English,Action|Crime|Horror,Ended,60.0,60.0,2014-03-11,2016-11-01,6.5,97,El Rey Network,US,,1723286573,https://www.tvmaze.com/shows/105/from-dusk-till-dawn-the-series
+106,Justified,Scripted,English,Drama|Crime|Western,Ended,60.0,60.0,2010-03-16,2015-04-14,8.7,99,FX,US,,1744977720,https://www.tvmaze.com/shows/106/justified
+107,Bob's Burgers,Animation,English,Comedy|Family,Running,30.0,30.0,2011-01-09,,7.9,99,FOX,US,,1786670790,https://www.tvmaze.com/shows/107/bobs-burgers
+108,Mulaney,Scripted,English,Comedy|Family,Ended,30.0,30.0,2014-10-05,2015-02-15,6.0,89,FOX,US,,1704794068,https://www.tvmaze.com/shows/108/mulaney
+109,CSI: Crime Scene Investigation,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2000-10-06,2015-09-27,8.1,99,CBS,US,,1793548585,https://www.tvmaze.com/shows/109/csi-crime-scene-investigation
+110,Gracepoint,Scripted,English,Drama|Crime|Mystery,Ended,60.0,60.0,2014-10-02,2014-12-11,7.5,93,FOX,US,,1704793869,https://www.tvmaze.com/shows/110/gracepoint
+111,Once Upon a Time,Scripted,English,Drama|Fantasy|Romance,Ended,60.0,60.0,2011-10-23,2018-05-18,7.5,99,ABC,US,,1782594654,https://www.tvmaze.com/shows/111/once-upon-a-time
+112,South Park,Animation,English,Comedy,Running,30.0,30.0,1997-08-13,,8.3,100,Comedy Central,US,,1794512062,https://www.tvmaze.com/shows/112/south-park
+114,Survivor,Reality,English,Adventure,Running,90.0,68.0,2000-05-31,,7.3,100,CBS,US,,1795138827,https://www.tvmaze.com/shows/114/survivor
+115,King of the Hill,Animation,English,Comedy,Running,,30.0,1997-01-12,,7.6,98,,,Hulu,1788985661,https://www.tvmaze.com/shows/115/king-of-the-hill
+116,The Mentalist,Scripted,English,Drama|Crime|Mystery,Ended,60.0,60.0,2008-09-23,2015-02-18,8.2,100,CBS,US,,1791432894,https://www.tvmaze.com/shows/116/the-mentalist
+117,Star Wars: Rebels,Animation,English,Action|Adventure|Science-Fiction,Ended,30.0,32.0,2014-09-29,2018-03-05,7.9,98,Disney XD,US,DisneyNOW,1759882636,https://www.tvmaze.com/shows/117/star-wars-rebels
+118,House,Scripted,English,Drama|Mystery|Medical,Ended,60.0,60.0,2004-11-16,2012-05-21,8.7,100,FOX,US,,1765027842,https://www.tvmaze.com/shows/118/house
+120,Transparent,Scripted,English,Drama|Comedy,Ended,,28.0,2014-09-26,2019-09-27,7.3,95,,,Prime Video,1759400567,https://www.tvmaze.com/shows/120/transparent
+122,Nikita,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2010-09-09,2013-12-27,7.8,98,The CW,US,,1756337955,https://www.tvmaze.com/shows/122/nikita
+123,Lost,Scripted,English,Drama|Adventure|Supernatural,Ended,60.0,60.0,2004-09-22,2010-05-23,8.2,99,ABC,US,,1791031701,https://www.tvmaze.com/shows/123/lost
+124,2 Broke Girls,Scripted,English,Comedy,Ended,30.0,30.0,2011-09-19,2017-04-17,7.3,98,CBS,US,,1765393882,https://www.tvmaze.com/shows/124/2-broke-girls
+125,Selfie,Scripted,English,Comedy|Romance,Ended,30.0,30.0,2014-09-30,2014-12-30,7.1,93,ABC,US,,1704794032,https://www.tvmaze.com/shows/125/selfie
+126,Mom,Scripted,English,Comedy|Family,Ended,30.0,30.0,2013-09-23,2021-05-13,7.6,99,CBS,US,,1704793831,https://www.tvmaze.com/shows/126/mom
+127,The Affair,Scripted,English,Drama|Romance,Ended,60.0,61.0,2014-10-12,2019-11-03,7.7,98,Paramount+ with Showtime,US,,1709904967,https://www.tvmaze.com/shows/127/the-affair
+128,Jane the Virgin,Scripted,English,Drama|Crime|Romance,Ended,60.0,60.0,2014-10-13,2019-07-31,7.4,98,The CW,US,,1760031820,https://www.tvmaze.com/shows/128/jane-the-virgin
+129,Marry Me,Scripted,English,Comedy,Ended,30.0,30.0,2014-10-14,2015-05-14,5.4,88,NBC,US,,1764854667,https://www.tvmaze.com/shows/129/marry-me
+130,Two and a Half Men,Scripted,English,Comedy|Family,Ended,30.0,30.0,2003-09-22,2015-02-19,6.7,99,CBS,US,,1786289074,https://www.tvmaze.com/shows/130/two-and-a-half-men
+131,About a Boy,Scripted,English,Drama|Comedy|Romance,Ended,30.0,30.0,2014-02-22,2015-07-20,6.6,91,NBC,US,,1765221596,https://www.tvmaze.com/shows/131/about-a-boy
+132,The Millers,Scripted,English,Comedy,Ended,30.0,30.0,2013-10-03,2015-07-18,6.2,93,CBS,US,,1704793830,https://www.tvmaze.com/shows/132/the-millers
+133,Elementary,Scripted,English,Drama|Crime|Mystery,Ended,60.0,60.0,2012-09-27,2019-08-15,8.3,100,CBS,US,,1792475823,https://www.tvmaze.com/shows/133/elementary
+134,Heroes,Scripted,English,Drama|Action|Science-Fiction,Ended,60.0,60.0,2006-09-25,2010-02-08,7.7,99,NBC,US,,1757858816,https://www.tvmaze.com/shows/134/heroes
+136,The McCarthys,Scripted,English,Comedy|Family,Ended,30.0,30.0,2014-10-30,2015-07-11,6.8,92,CBS,US,,1704793890,https://www.tvmaze.com/shows/136/the-mccarthys
+137,Cristela,Scripted,English,Comedy|Legal,Ended,30.0,30.0,2014-10-10,2015-04-17,7.0,93,ABC,US,,1704793575,https://www.tvmaze.com/shows/137/cristela
+138,The Leftovers,Scripted,English,Drama|Science-Fiction|Thriller,Ended,60.0,61.0,2014-06-29,2017-06-04,8.0,98,HBO,US,,1786265424,https://www.tvmaze.com/shows/138/the-leftovers
+139,Girls,Scripted,English,Drama|Romance,Running,30.0,30.0,2012-04-15,,6.4,98,HBO,US,,1791923577,https://www.tvmaze.com/shows/139/girls
+140,Looking,Scripted,English,Drama|Comedy|Romance,Ended,30.0,32.0,2014-01-19,2015-03-22,7.3,89,HBO,US,,1704793861,https://www.tvmaze.com/shows/140/looking
+141,Getting On,Scripted,English,Comedy|Medical,Ended,30.0,30.0,2013-11-24,2015-12-13,7.1,94,HBO,US,,1788977982,https://www.tvmaze.com/shows/141/getting-on
+142,Veep,Scripted,English,Comedy,Ended,30.0,30.0,2012-04-22,2019-05-12,7.8,97,HBO,US,,1784569263,https://www.tvmaze.com/shows/142/veep
+143,Silicon Valley,Scripted,English,Comedy,Ended,30.0,30.0,2014-04-06,2019-12-08,8.4,99,HBO,US,,1745623061,https://www.tvmaze.com/shows/143/silicon-valley
+144,The Comeback,Scripted,English,Comedy,Ended,30.0,31.0,2005-06-05,2026-05-10,6.5,95,HBO,US,,1786571111,https://www.tvmaze.com/shows/144/the-comeback
+145,House of Lies,Scripted,English,Drama|Comedy,Ended,30.0,30.0,2012-01-08,2016-06-12,7.9,98,Paramount+ with Showtime,US,,1756334028,https://www.tvmaze.com/shows/145/house-of-lies
+146,Episodes,Scripted,English,Comedy,Ended,30.0,30.0,2011-01-09,2017-10-08,7.9,95,Paramount+ with Showtime,US,,1731862052,https://www.tvmaze.com/shows/146/episodes
+147,Nurse Jackie,Scripted,English,Drama|Comedy,Ended,30.0,30.0,2009-06-08,2015-06-28,7.8,97,Paramount+ with Showtime,US,,1781479440,https://www.tvmaze.com/shows/147/nurse-jackie
+148,Web Therapy,Scripted,English,Comedy,Ended,30.0,30.0,2011-07-19,2015-01-28,7.1,94,Paramount+ with Showtime,US,,1704794865,https://www.tvmaze.com/shows/148/web-therapy
+149,Masters of Sex,Scripted,English,Drama|Romance|History,Ended,60.0,60.0,2013-09-29,2016-11-13,7.3,98,Paramount+ with Showtime,US,,1726739321,https://www.tvmaze.com/shows/149/masters-of-sex
+150,Shameless,Scripted,English,Drama|Comedy|Family,Ended,60.0,60.0,2011-01-09,2021-04-11,8.4,99,Paramount+ with Showtime,US,,1777578075,https://www.tvmaze.com/shows/150/shameless
+151,The Newsroom,Scripted,English,Drama,Ended,60.0,60.0,2012-06-24,2014-12-14,8.4,98,HBO,US,,1746280974,https://www.tvmaze.com/shows/151/the-newsroom
+152,Ray Donovan,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2013-06-30,2022-01-14,8.1,98,Paramount+ with Showtime,US,,1785469085,https://www.tvmaze.com/shows/152/ray-donovan
+153,Utopia,Reality,English,,Ended,60.0,60.0,2014-09-07,2014-11-07,,87,FOX,US,,1617710428,https://www.tvmaze.com/shows/153/utopia
+154,Sanctuary,Scripted,English,Drama|Adventure|Science-Fiction,Ended,60.0,60.0,2008-10-03,2011-12-30,8.0,98,Syfy,US,,1704794359,https://www.tvmaze.com/shows/154/sanctuary
+155,Beauty & the Beast,Scripted,English,Action|Romance|Science-Fiction,Ended,60.0,60.0,2012-10-11,2016-09-15,7.2,98,The CW,US,,1729753783,https://www.tvmaze.com/shows/155/beauty-the-beast
+156,Twin Peaks,Scripted,English,Crime|Mystery|Supernatural,Ended,60.0,62.0,1990-04-08,2017-09-03,8.0,99,Paramount+ with Showtime,US,,1748109698,https://www.tvmaze.com/shows/156/twin-peaks
+157,The Americans,Scripted,English,Drama|Espionage,Ended,60.0,62.0,2013-01-30,2018-05-30,8.5,99,FX,US,,1756388848,https://www.tvmaze.com/shows/157/the-americans
+158,Fringe,Scripted,English,Drama|Action|Science-Fiction,Ended,60.0,61.0,2008-09-09,2013-01-18,8.6,99,FOX,US,,1792207111,https://www.tvmaze.com/shows/158/fringe
+159,State of Affairs,Scripted,English,Drama|Thriller,Ended,60.0,60.0,2014-11-17,2015-02-16,6.5,93,NBC,US,,1756340138,https://www.tvmaze.com/shows/159/state-of-affairs
+160,Weeds,Scripted,English,Drama|Comedy|Crime,Ended,30.0,30.0,2005-08-07,2012-09-16,7.9,99,Paramount+ with Showtime,US,,1782100770,https://www.tvmaze.com/shows/160/weeds
+161,Dexter,Scripted,English,Drama|Crime|Mystery,Ended,60.0,60.0,2006-10-01,2013-09-22,8.4,100,Paramount+ with Showtime,US,,1784283681,https://www.tvmaze.com/shows/161/dexter
+162,Carnivàle,Scripted,English,Drama|Fantasy|Horror,Ended,60.0,60.0,2003-09-14,2005-03-27,8.0,96,HBO,US,,1773091121,https://www.tvmaze.com/shows/162/carnivale
+163,Human Target,Scripted,English,Action|Adventure|Crime,Ended,60.0,60.0,2010-01-17,2011-02-09,8.0,96,FOX,US,,1787076087,https://www.tvmaze.com/shows/163/human-target
+164,Banshee,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2013-01-11,2016-05-20,8.6,99,Cinemax,US,,1786492723,https://www.tvmaze.com/shows/164/banshee
+165,Bionic Woman,Scripted,English,Action|Science-Fiction,Ended,60.0,60.0,2007-09-26,2007-11-28,6.4,93,NBC,US,,1756392527,https://www.tvmaze.com/shows/165/bionic-woman
+166,Battlestar Galactica,Scripted,English,Drama|Science-Fiction|War,Ended,60.0,61.0,2003-12-08,2009-10-27,8.7,99,Syfy,US,,1787823022,https://www.tvmaze.com/shows/166/battlestar-galactica
+167,24,Scripted,English,Drama|Action|Thriller,Ended,60.0,60.0,2001-11-06,2014-09-30,8.2,98,FOX,US,,1764870516,https://www.tvmaze.com/shows/167/24
+168,Chuck,Scripted,English,Drama|Comedy|Action,Ended,60.0,60.0,2007-09-24,2012-01-27,8.2,98,NBC,US,,1789914098,https://www.tvmaze.com/shows/168/chuck
+169,Breaking Bad,Scripted,English,Drama|Crime|Thriller,Ended,60.0,60.0,2008-01-20,2019-10-11,9.2,100,AMC,US,,1792795009,https://www.tvmaze.com/shows/169/breaking-bad
+170,Orange Is the New Black,Scripted,English,Drama|Comedy|Crime,Ended,,60.0,2013-07-11,2019-07-26,7.9,98,,,Netflix,1738295616,https://www.tvmaze.com/shows/170/orange-is-the-new-black
+171,How I Met Your Mother,Scripted,English,Drama|Comedy|Romance,Ended,30.0,30.0,2005-09-19,2014-03-31,7.8,99,CBS,US,,1776600307,https://www.tvmaze.com/shows/171/how-i-met-your-mother
+172,Suits,Scripted,English,Drama|Legal,Ended,60.0,60.0,2011-06-23,2019-09-25,8.1,99,USA Network,US,,1794599590,https://www.tvmaze.com/shows/172/suits
+174,Parks and Recreation,Scripted,English,Comedy,Ended,30.0,30.0,2009-04-09,2015-02-24,8.1,99,NBC,US,,1793606740,https://www.tvmaze.com/shows/174/parks-and-recreation
+175,House of Cards,Scripted,English,Drama|Thriller,Ended,,52.0,2013-02-01,2018-11-02,8.2,95,,,Netflix,1778771536,https://www.tvmaze.com/shows/175/house-of-cards
+176,Teen Wolf,Scripted,English,Drama|Romance|Supernatural,Ended,60.0,60.0,2011-06-05,2023-01-26,8.1,99,MTV,US,,1786255199,https://www.tvmaze.com/shows/176/teen-wolf
+177,Pretty Little Liars,Scripted,English,Romance|Thriller|Mystery,Ended,60.0,60.0,2010-06-08,2017-06-27,7.4,99,Freeform,US,,1784201267,https://www.tvmaze.com/shows/177/pretty-little-liars
+178,The Legend of Korra,Animation,English,Action|Adventure|Fantasy,Ended,30.0,30.0,2012-04-14,2014-12-19,7.9,98,Nickelodeon,US,,1793084371,https://www.tvmaze.com/shows/178/the-legend-of-korra
+179,The Wire,Scripted,English,Drama|Crime,Ended,60.0,60.0,2002-06-02,2008-03-09,8.9,99,HBO,US,,1759740087,https://www.tvmaze.com/shows/179/the-wire
+180,Firefly,Scripted,English,Drama|Adventure|Science-Fiction,Ended,60.0,64.0,2002-09-20,2002-12-20,9.0,99,FOX,US,,1779009049,https://www.tvmaze.com/shows/180/firefly
+181,Extant,Scripted,English,Drama|Science-Fiction|Thriller,Ended,60.0,60.0,2014-07-09,2015-09-09,7.3,96,CBS,US,,1772982812,https://www.tvmaze.com/shows/181/extant
+182,Black Sails,Scripted,English,Drama|Action|Adventure,Ended,60.0,60.0,2014-01-25,2017-04-02,8.4,98,STARZ,US,,1717536241,https://www.tvmaze.com/shows/182/black-sails
+183,Tyrant,Scripted,English,Drama|Thriller,Ended,60.0,64.0,2014-06-24,2016-09-07,7.9,90,FX,US,,1711118026,https://www.tvmaze.com/shows/183/tyrant
+184,BoJack Horseman,Animation,English,Drama|Comedy,Ended,,26.0,2014-08-22,2020-01-31,7.9,97,,,Netflix,1740064716,https://www.tvmaze.com/shows/184/bojack-horseman
+185,Salem,Scripted,English,Drama|Thriller|Supernatural,Ended,60.0,60.0,2014-04-20,2017-01-25,6.9,98,NewsNation,US,,1704794039,https://www.tvmaze.com/shows/185/salem
+186,TURN: Washington's Spies,Scripted,English,Drama|War,Ended,60.0,60.0,2014-04-06,2017-08-12,7.9,96,AMC,US,,1756607365,https://www.tvmaze.com/shows/186/turn-washingtons-spies
+187,Intelligence,Scripted,English,Action|Science-Fiction,Ended,60.0,60.0,2014-01-07,2014-03-31,6.5,94,CBS,US,,1704794224,https://www.tvmaze.com/shows/187/intelligence
+188,Believe,Scripted,English,Drama|Action|Fantasy,Ended,60.0,60.0,2014-03-10,2014-06-30,7.3,96,NBC,US,,1688929778,https://www.tvmaze.com/shows/188/believe
+189,Star-Crossed,Scripted,English,Drama|Romance|Science-Fiction,Ended,60.0,60.0,2014-02-17,2014-05-12,6.9,91,The CW,US,,1704793855,https://www.tvmaze.com/shows/189/star-crossed
+190,Crisis,Scripted,English,Drama|Action|Thriller,Ended,60.0,60.0,2014-03-16,2014-06-21,7.1,96,NBC,US,,1732361448,https://www.tvmaze.com/shows/190/crisis
+191,Halt and Catch Fire,Scripted,English,Drama,Ended,60.0,60.0,2014-06-01,2017-10-14,8.2,97,AMC,US,,1704793830,https://www.tvmaze.com/shows/191/halt-and-catch-fire
+192,Hello Ladies,Scripted,English,Comedy,Ended,30.0,30.0,2013-09-29,2014-11-22,6.5,95,HBO,US,,1746303816,https://www.tvmaze.com/shows/192/hello-ladies
+193,Dads,Scripted,English,Comedy,Ended,30.0,30.0,2013-09-17,2014-02-11,5.1,94,FOX,US,,1558245666,https://www.tvmaze.com/shows/193/dads
+194,Hannibal,Scripted,English,Drama|Crime|Horror,Ended,60.0,60.0,2013-04-04,2015-08-29,8.2,97,NBC,US,,1794136992,https://www.tvmaze.com/shows/194/hannibal
+195,Bates Motel,Scripted,English,Drama|Horror|Thriller,Ended,60.0,60.0,2013-03-18,2017-04-24,8.0,98,A&E,US,,1743081422,https://www.tvmaze.com/shows/195/bates-motel
+196,The Following,Scripted,English,Drama|Crime|Thriller,Ended,60.0,60.0,2013-01-21,2015-05-18,7.0,98,FOX,US,,1761761365,https://www.tvmaze.com/shows/196/the-following
+197,Da Vinci's Demons,Scripted,English,Drama|Horror,Ended,60.0,60.0,2013-04-12,2015-10-24,8.0,98,,,Lionsgate+,1704793712,https://www.tvmaze.com/shows/197/da-vincis-demons
+198,The Fosters,Scripted,English,Drama|Family|Romance,Ended,60.0,60.0,2013-06-03,2018-06-06,7.5,94,Freeform,US,,1745766478,https://www.tvmaze.com/shows/198/the-fosters
+199,Mistresses,Scripted,English,Drama|Romance,Ended,60.0,60.0,2013-06-03,2016-09-06,7.5,96,ABC,US,,1704793840,https://www.tvmaze.com/shows/199/mistresses
+200,The Tomorrow People,Scripted,English,Action|Science-Fiction,Ended,60.0,60.0,2013-10-09,2014-05-05,7.3,95,The CW,US,,1704794064,https://www.tvmaze.com/shows/200/the-tomorrow-people
+201,Devious Maids,Scripted,English,Drama|Crime|Mystery,Ended,60.0,60.0,2013-06-23,2016-08-08,7.6,96,Lifetime,US,,1764855883,https://www.tvmaze.com/shows/201/devious-maids
+202,Almost Human,Scripted,English,Drama|Crime|Science-Fiction,Ended,60.0,60.0,2013-11-17,2014-03-03,7.7,98,FOX,US,,1704793416,https://www.tvmaze.com/shows/202/almost-human
+203,The Carrie Diaries,Scripted,English,Drama|Comedy|Romance,Ended,60.0,60.0,2013-01-14,2014-01-31,6.6,93,The CW,US,,1704793620,https://www.tvmaze.com/shows/203/the-carrie-diaries
+204,Stargate SG·1,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,1997-07-27,2008-07-29,8.8,99,Syfy,US,,1790784963,https://www.tvmaze.com/shows/204/stargate-sg1
+205,Graceland,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2013-06-06,2015-09-17,7.4,96,USA Network,US,,1704793843,https://www.tvmaze.com/shows/205/graceland
+206,Stargate Atlantis,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,2004-07-16,2009-01-09,8.8,99,Syfy,US,,1791173795,https://www.tvmaze.com/shows/206/stargate-atlantis
+207,Stargate Universe,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,2009-10-02,2011-05-09,8.1,96,Syfy,US,,1756811161,https://www.tvmaze.com/shows/207/stargate-universe
+208,The Chair,Reality,English,,Ended,60.0,60.0,2014-09-06,2014-11-08,,82,STARZ,US,,1704793398,https://www.tvmaze.com/shows/208/the-chair
+209,Survivor's Remorse,Scripted,English,Drama|Comedy|Sports,Ended,30.0,30.0,2014-10-04,2017-10-15,6.6,94,STARZ,US,Lionsgate+,1704793865,https://www.tvmaze.com/shows/209/survivors-remorse
+210,Doctor Who,Scripted,English,Drama|Adventure|Science-Fiction,Ended,,48.0,2005-03-26,2022-10-23,8.3,99,BBC One,GB,,1775895263,https://www.tvmaze.com/shows/210/doctor-who
+211,666 Park Avenue,Scripted,English,Drama|Mystery|Supernatural,Ended,60.0,60.0,2012-09-30,2013-07-13,6.6,97,ABC,US,,1704793342,https://www.tvmaze.com/shows/211/666-park-avenue
+212,Alcatraz,Scripted,English,Drama|Science-Fiction|Thriller,Ended,60.0,60.0,2012-01-16,2012-03-26,7.0,95,FOX,US,,1740325966,https://www.tvmaze.com/shows/212/alcatraz
+213,The Gates,Scripted,English,Drama|Crime|Supernatural,Ended,60.0,60.0,2010-06-20,2010-09-19,7.3,95,ABC,US,,1704794585,https://www.tvmaze.com/shows/213/the-gates
+214,Kingdom,Scripted,English,Drama|Family|Sports,Ended,60.0,60.0,2014-10-08,2017-08-02,7.9,98,Audience Network,US,,1704794036,https://www.tvmaze.com/shows/214/kingdom
+215,American Dad!,Animation,English,Comedy|Family,Running,30.0,30.0,2005-02-06,,7.5,99,FOX,US,,1790444694,https://www.tvmaze.com/shows/215/american-dad
+216,Rick and Morty,Animation,English,Comedy|Adventure|Science-Fiction,Running,30.0,30.0,2013-12-02,,8.7,100,Adult Swim,US,,1786292785,https://www.tvmaze.com/shows/216/rick-and-morty
+217,Hostages,Scripted,English,Drama|Thriller,Ended,60.0,60.0,2013-09-23,2014-01-06,6.4,93,CBS,US,,1781490566,https://www.tvmaze.com/shows/217/hostages
+218,Being Human,Scripted,English,Drama|Horror|Romance,Ended,60.0,60.0,2011-01-17,2014-04-07,7.4,96,Syfy,US,,1756907754,https://www.tvmaze.com/shows/218/being-human
+219,Alphas,Scripted,English,Drama|Science-Fiction|Supernatural,Ended,60.0,60.0,2011-07-11,2012-10-22,7.5,97,Syfy,US,,1778174202,https://www.tvmaze.com/shows/219/alphas
+220,Crossing Lines,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2013-06-23,2015-12-04,7.6,87,TF1,FR,,1793714346,https://www.tvmaze.com/shows/220/crossing-lines
+221,Rectify,Scripted,English,Drama|Crime,Ended,60.0,62.0,2013-04-22,2016-12-14,8.0,99,SundanceTV,US,,1704793853,https://www.tvmaze.com/shows/221/rectify
+222,Happyland,Scripted,English,Drama|Comedy,Ended,60.0,60.0,2014-09-30,2014-11-18,7.0,88,MTV,US,,1689046929,https://www.tvmaze.com/shows/222/happyland
+224,Twisted,Scripted,English,Drama|Thriller|Mystery,Ended,60.0,60.0,2013-03-19,2014-04-01,7.3,90,Freeform,US,,1764855420,https://www.tvmaze.com/shows/224/twisted
+225,Ravenswood,Scripted,English,Drama|Horror,Ended,60.0,60.0,2013-10-22,2014-02-04,6.9,96,Freeform,US,,1704794862,https://www.tvmaze.com/shows/225/ravenswood
+226,The Crazy Ones,Scripted,English,Comedy,Ended,30.0,30.0,2013-09-26,2014-04-17,7.1,89,CBS,US,,1704793655,https://www.tvmaze.com/shows/226/the-crazy-ones
+227,Mob City,Scripted,English,Drama|Crime,Ended,60.0,60.0,2013-12-04,2013-12-18,7.4,91,TNT,US,,1704793840,https://www.tvmaze.com/shows/227/mob-city
+228,Last Resort,Scripted,English,Drama|Action|War,Ended,60.0,60.0,2012-09-27,2013-01-24,7.3,97,ABC,US,,1764852570,https://www.tvmaze.com/shows/228/last-resort
+229,The Neighbors,Scripted,English,Comedy|Science-Fiction,Ended,30.0,30.0,2012-09-26,2014-04-11,6.9,94,ABC,US,,1704794134,https://www.tvmaze.com/shows/229/the-neighbors
+230,Go On,Scripted,English,Comedy,Ended,30.0,30.0,2012-08-08,2013-04-11,7.3,92,NBC,US,,1743080807,https://www.tvmaze.com/shows/230/go-on
+231,Vegas,Scripted,English,Drama,Ended,60.0,60.0,2012-09-25,2013-05-10,7.9,86,CBS,US,,1786142335,https://www.tvmaze.com/shows/231/vegas
+232,The River,Scripted,English,Drama|Horror|Supernatural,Ended,60.0,60.0,2012-02-07,2012-03-20,6.9,91,ABC,US,,1705087263,https://www.tvmaze.com/shows/232/the-river
+233,Awake,Scripted,English,Drama|Fantasy|Thriller,Ended,60.0,60.0,2012-03-01,2012-05-24,7.4,92,NBC,US,,1735908530,https://www.tvmaze.com/shows/233/awake
+234,Missing,Scripted,English,Drama|Action|Thriller,Ended,60.0,60.0,2012-03-15,2012-05-17,7.0,97,ABC,US,,1704794107,https://www.tvmaze.com/shows/234/missing
+235,The New Normal,Scripted,English,Comedy,Ended,30.0,30.0,2012-09-10,2013-04-02,7.1,88,NBC,US,,1715802591,https://www.tvmaze.com/shows/235/the-new-normal
+236,GCB,Scripted,English,Drama|Comedy|Romance,Ended,60.0,60.0,2012-03-04,2012-05-06,7.2,96,ABC,US,,1790714899,https://www.tvmaze.com/shows/236/gcb
+237,Revolution,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,2012-09-17,2014-05-21,7.6,99,NBC,US,,1738072239,https://www.tvmaze.com/shows/237/revolution
+238,Dallas,Scripted,English,Drama|Family,Ended,60.0,60.0,2012-06-13,2014-09-22,6.7,94,TNT,US,,1752159509,https://www.tvmaze.com/shows/238/dallas
+239,Anger Management,Scripted,English,Comedy,Ended,30.0,30.0,2012-06-28,2014-12-22,6.3,93,FX,US,,1766435300,https://www.tvmaze.com/shows/239/anger-management
+240,Cops,Reality,English,Action|Crime,Running,,30.0,1989-03-11,,7.1,98,,,Fox Nation,1794590175,https://www.tvmaze.com/shows/240/cops
+241,Benched,Scripted,English,Comedy|Legal,Ended,30.0,30.0,2014-10-28,2014-12-30,7.2,90,USA Network,US,,1756332517,https://www.tvmaze.com/shows/241/benched
+242,The Great Fire,Scripted,English,Drama,Ended,60.0,60.0,2014-10-16,2014-11-06,7.0,86,ITV1,GB,,1706058286,https://www.tvmaze.com/shows/242/the-great-fire
+243,Conan,Talk Show,English,Comedy,Ended,30.0,55.0,2010-11-08,2021-06-24,7.8,97,TBS,US,,1770292547,https://www.tvmaze.com/shows/243/conan
+244,Strange Empire,Scripted,English,Drama|Western,Ended,60.0,60.0,2014-10-06,2015-02-02,7.2,90,CBC,CA,,1704793810,https://www.tvmaze.com/shows/244/strange-empire
+245,Town of the Living Dead,Reality,English,,Ended,30.0,30.0,2014-10-07,2014-11-11,,83,Syfy,US,,1704795205,https://www.tvmaze.com/shows/245/town-of-the-living-dead
+246,Long Shadow,Documentary,English,War|History,Ended,60.0,60.0,2014-09-24,2014-10-08,,72,BBC Two,GB,,1578901625,https://www.tvmaze.com/shows/246/long-shadow
+247,The Colbert Report,Talk Show,English,Comedy,Ended,30.0,30.0,2005-10-17,2014-12-18,7.2,95,Comedy Central,US,,1693353845,https://www.tvmaze.com/shows/247/the-colbert-report
+248,Transporter: The Series,Scripted,English,Action|Adventure|Crime,Ended,60.0,60.0,2013-01-04,2014-12-14,7.3,97,RTL,DE,,1766505449,https://www.tvmaze.com/shows/248/transporter-the-series
+249,The Daily Show with Jon Stewart,Talk Show,English,Comedy,Ended,30.0,30.0,1999-01-11,2015-08-06,8.0,97,Comedy Central,US,,1715257485,https://www.tvmaze.com/shows/249/the-daily-show-with-jon-stewart
+250,Kirby Buckets,Scripted,English,Comedy,Ended,30.0,30.0,2014-10-20,2017-02-02,,56,Disney XD,US,DisneyNOW,1704795334,https://www.tvmaze.com/shows/250/kirby-buckets
+251,Downton Abbey,Scripted,English,Drama|Family|Romance,Ended,60.0,71.0,2010-09-26,2015-12-25,8.7,97,ITV1,GB,,1715084414,https://www.tvmaze.com/shows/251/downton-abbey
+252,Girl Meets World,Scripted,English,Drama|Comedy|Family,Ended,30.0,30.0,2014-06-27,2017-01-20,7.7,86,Disney Channel,US,DisneyNOW,1704793836,https://www.tvmaze.com/shows/252/girl-meets-world
+253,Hell's Kitchen,Reality,English,Food,Running,60.0,60.0,2005-05-30,,6.8,99,FOX,US,,1795306868,https://www.tvmaze.com/shows/253/hells-kitchen
+254,World Series of Poker,Sports,English,Sports,Running,,82.0,2006-08-22,,7.8,62,,,PokerGO,1785929583,https://www.tvmaze.com/shows/254/world-series-of-poker
+255,Anthony Bourdain: Parts Unknown,Documentary,English,Food|Travel,Ended,60.0,60.0,2013-04-14,2018-11-11,7.7,76,CNN,US,,1704793509,https://www.tvmaze.com/shows/255/anthony-bourdain-parts-unknown
+256,Comic Book Men,Reality,English,Comedy,Ended,30.0,30.0,2012-02-12,2018-04-08,7.4,86,AMC,US,,1704793662,https://www.tvmaze.com/shows/256/comic-book-men
+257,Key & Peele,Scripted,English,Comedy,Ended,30.0,30.0,2012-01-31,2015-09-09,7.7,90,Comedy Central,US,,1789486801,https://www.tvmaze.com/shows/257/key-peele
+258,Glue,Scripted,English,Drama,Ended,60.0,60.0,2014-09-15,2014-11-03,7.7,92,E4,GB,,1704793800,https://www.tvmaze.com/shows/258/glue
+259,Southern Justice,Reality,English,Crime,Ended,60.0,60.0,2014-04-15,2017-07-12,,77,National Geographic,US,,1704795361,https://www.tvmaze.com/shows/259/southern-justice
+260,Tosh.0,Variety,English,Comedy,Ended,30.0,30.0,2009-06-04,2020-11-24,6.2,94,Comedy Central,US,,1723978456,https://www.tvmaze.com/shows/260/tosh0
+261,The Soup,Variety,English,Comedy,Ended,30.0,30.0,2004-07-30,2020-10-14,4.5,86,E!,US,,1753919139,https://www.tvmaze.com/shows/261/the-soup
+262,The Driver,Scripted,English,Drama|Crime,Ended,60.0,60.0,2014-09-23,2014-10-07,7.2,84,BBC One,GB,,1744296334,https://www.tvmaze.com/shows/262/the-driver
+263,Last Week Tonight with John Oliver,Talk Show,English,Comedy,Running,30.0,31.0,2014-04-27,,7.8,100,HBO,US,,1794948168,https://www.tvmaze.com/shows/263/last-week-tonight-with-john-oliver
+265,The Late Show with David Letterman,Talk Show,English,Comedy,Ended,60.0,60.0,1993-08-30,2015-05-20,7.5,94,CBS,US,,1766515537,https://www.tvmaze.com/shows/265/the-late-show-with-david-letterman
+266,Mount Pleasant,Scripted,English,Drama|Comedy,Ended,60.0,60.0,2011-08-24,2017-06-30,,63,Sky Showcase,GB,,1751431845,https://www.tvmaze.com/shows/266/mount-pleasant
+267,Lovesick,Scripted,English,Comedy|Romance,Ended,,30.0,2014-10-02,2018-01-01,7.3,82,,,Netflix,1724845308,https://www.tvmaze.com/shows/267/lovesick
+268,Package Deal,Scripted,English,Comedy,Ended,30.0,30.0,2013-06-18,2014-12-21,6.2,78,Citytv,CA,,1704795337,https://www.tvmaze.com/shows/268/package-deal
+269,Peaky Blinders,Scripted,English,Drama|Crime|History,Running,,61.0,2013-09-12,,8.5,99,BBC One,GB,,1778696206,https://www.tvmaze.com/shows/269/peaky-blinders
+270,The League,Scripted,English,Comedy|Sports,Ended,30.0,30.0,2009-10-29,2015-12-09,7.6,96,FXX,US,,1704793992,https://www.tvmaze.com/shows/270/the-league
+271,Saving Hope,Scripted,English,Drama|Fantasy|Medical,Ended,60.0,60.0,2012-06-07,2017-08-03,7.7,97,CTV,CA,,1783274402,https://www.tvmaze.com/shows/271/saving-hope
+272,Talking Dead,Talk Show,English,,To Be Determined,60.0,60.0,2011-10-17,,6.3,89,AMC,US,,1769876384,https://www.tvmaze.com/shows/272/talking-dead
+273,Black Dynamite,Animation,English,Comedy|Action,Ended,30.0,32.0,2012-07-15,2015-01-10,8.0,63,Adult Swim,US,,1704793277,https://www.tvmaze.com/shows/273/black-dynamite
+274,Bad Education,Scripted,English,Comedy,Ended,,30.0,2012-08-14,2024-01-14,6.6,75,,,BBC iPlayer,1774186621,https://www.tvmaze.com/shows/274/bad-education
+275,Ali G: Rezurection,Scripted,English,Comedy,Ended,30.0,30.0,2014-02-26,2014-10-29,6.0,88,FXX,US,,1648061772,https://www.tvmaze.com/shows/275/ali-g-rezurection
+276,New Tricks,Scripted,English,Drama|Comedy|Crime,Ended,60.0,60.0,2004-04-01,2015-10-06,7.8,90,BBC One,GB,,1762175759,https://www.tvmaze.com/shows/276/new-tricks
+277,Brickleberry,Animation,English,Comedy,Ended,30.0,30.0,2012-09-25,2015-04-14,7.7,95,Comedy Central,US,,1704793678,https://www.tvmaze.com/shows/277/brickleberry
+278,Face Off,Reality,English,,Ended,60.0,60.0,2011-01-26,2018-08-07,8.1,90,Syfy,US,,1720302952,https://www.tvmaze.com/shows/278/face-off
+279,Real Time with Bill Maher,Talk Show,English,,Running,60.0,60.0,2003-02-21,,5.1,99,HBO,US,,1795283136,https://www.tvmaze.com/shows/279/real-time-with-bill-maher
+280,Franklin & Bash,Scripted,English,Drama|Comedy|Legal,Ended,60.0,60.0,2011-06-01,2014-10-22,7.2,97,TNT,US,,1713650532,https://www.tvmaze.com/shows/280/franklin-bash
+281,Mock the Week,Panel Show,English,Comedy,Ended,30.0,30.0,2005-06-05,2022-11-04,7.7,95,BBC Two,GB,,1779283197,https://www.tvmaze.com/shows/281/mock-the-week
+282,Awkward.,Scripted,English,Drama|Comedy|Romance,Ended,30.0,30.0,2011-07-19,2016-05-24,7.3,89,MTV,US,,1704793378,https://www.tvmaze.com/shows/282/awkward
+283,Faking It,Scripted,English,Comedy|Romance,Ended,30.0,30.0,2014-04-22,2016-05-17,7.5,87,MTV,US,,1764855113,https://www.tvmaze.com/shows/283/faking-it
+284,Mr. Selfridge,Scripted,English,Drama,Ended,60.0,60.0,2013-01-06,2016-03-11,7.6,76,ITV1,GB,,1704793837,https://www.tvmaze.com/shows/284/mr-selfridge
+285,"Signed, Sealed, Delivered",Scripted,English,Romance|Mystery,To Be Determined,120.0,95.0,2013-10-12,,7.9,98,Hallmark Mystery,US,,1766849789,https://www.tvmaze.com/shows/285/signed-sealed-delivered
+286,Happy Valley,Scripted,English,Drama|Crime,Ended,,61.0,2014-04-29,2023-02-05,8.1,98,BBC One,GB,,1751990743,https://www.tvmaze.com/shows/286/happy-valley
+287,Kroll Show,Variety,English,Comedy,Ended,30.0,30.0,2013-01-16,2015-03-24,,73,Comedy Central,US,,1704793881,https://www.tvmaze.com/shows/287/kroll-show
+288,American Idol,Reality,English,Music,Running,120.0,107.0,2002-06-11,,5.1,99,ABC,US,,1793987716,https://www.tvmaze.com/shows/288/american-idol
+289,America's Got Talent,Variety,English,Music,To Be Determined,120.0,106.0,2006-06-21,,5.7,99,NBC,US,,1793792782,https://www.tvmaze.com/shows/289/americas-got-talent
+290,Adventure Time,Animation,English,Comedy|Adventure|Fantasy,Ended,15.0,15.0,2008-12-07,2018-09-03,7.8,98,Cartoon Network,US,,1782311663,https://www.tvmaze.com/shows/290/adventure-time
+291,Motive,Scripted,English,Drama|Crime|Mystery,Ended,60.0,60.0,2013-02-03,2016-08-30,7.9,95,CTV,CA,,1793901056,https://www.tvmaze.com/shows/291/motive
+292,The NEW Celebrity Apprentice,Reality,English,,Ended,60.0,63.0,2008-01-03,2017-02-13,4.5,48,NBC,US,,1719882305,https://www.tvmaze.com/shows/292/the-new-celebrity-apprentice
+293,Newswipe,Variety,English,Comedy,Ended,30.0,30.0,2009-03-25,2010-02-23,,84,BBC Four,GB,,1671470681,https://www.tvmaze.com/shows/293/newswipe
+294,The Night Shift,Scripted,English,Drama|Action|Medical,Ended,60.0,60.0,2014-05-27,2017-08-31,8.0,96,NBC,US,,1704794073,https://www.tvmaze.com/shows/294/the-night-shift
+295,Top Chef,Reality,English,Food,Running,75.0,63.0,2006-03-08,,7.3,98,Bravo,US,,1786670904,https://www.tvmaze.com/shows/295/top-chef
+296,Top Gear,Reality,English,,Ended,60.0,60.0,2010-11-21,2016-06-28,5.3,97,History,US,,1704794271,https://www.tvmaze.com/shows/296/top-gear
+297,Undateable,Scripted,English,Comedy|Romance,Ended,30.0,31.0,2014-05-29,2016-01-29,7.8,89,NBC,US,,1704793881,https://www.tvmaze.com/shows/297/undateable
+298,Chasing Life,Scripted,English,Drama|Romance|Medical,Ended,60.0,60.0,2014-06-10,2015-09-28,7.8,86,Freeform,US,,1785612070,https://www.tvmaze.com/shows/298/chasing-life
+299,Power,Scripted,English,Drama|Crime,Ended,60.0,60.0,2014-06-07,2020-02-09,7.9,99,STARZ,US,,1781172705,https://www.tvmaze.com/shows/299/power
+300,Murder in the First,Scripted,English,Drama|Crime|Mystery,Ended,60.0,60.0,2014-06-09,2016-09-04,7.8,97,TNT,US,,1704794071,https://www.tvmaze.com/shows/300/murder-in-the-first
+301,Hart of Dixie,Scripted,English,Drama|Comedy|Romance,Ended,60.0,60.0,2011-09-26,2015-03-27,7.9,65,The CW,US,,1704794382,https://www.tvmaze.com/shows/301/hart-of-dixie
+302,Trailer Park Boys,Scripted,English,Comedy|Crime,Running,,25.0,2001-04-22,,7.6,95,,,SwearNet,1754584056,https://www.tvmaze.com/shows/302/trailer-park-boys
+303,Deadbeat,Scripted,English,Comedy|Supernatural,Ended,,22.0,2014-04-09,2016-04-20,6.8,64,,,Hulu,1780982108,https://www.tvmaze.com/shows/303/deadbeat
+304,The Venture Bros.,Animation,English,Comedy|Adventure,Ended,30.0,30.0,2003-02-16,2023-07-21,8.2,86,Adult Swim,US,,1704794603,https://www.tvmaze.com/shows/304/the-venture-bros
+305,Black Mirror,Scripted,English,Drama|Science-Fiction|Thriller,Running,,62.0,2011-12-04,,8.4,100,,,Netflix,1794611901,https://www.tvmaze.com/shows/305/black-mirror
+306,Broadchurch,Scripted,English,Drama|Crime|Mystery,Ended,60.0,60.0,2013-03-04,2017-04-17,8.4,98,ITV1,GB,,1764265091,https://www.tvmaze.com/shows/306/broadchurch
+307,Bluestone 42,Scripted,English,Drama|Comedy|War,Ended,30.0,30.0,2013-03-05,2015-04-13,7.3,92,BBC Three,GB,,1704793557,https://www.tvmaze.com/shows/307/bluestone-42
+308,Matador,Scripted,English,Drama|Action,Ended,60.0,60.0,2014-07-15,2014-10-07,6.9,63,El Rey Network,US,,1756340055,https://www.tvmaze.com/shows/308/matador
+309,Rogue,Scripted,English,Action|Crime,Ended,60.0,60.0,2013-04-03,2017-05-24,7.6,91,Audience Network,US,,1704794054,https://www.tvmaze.com/shows/309/rogue
+310,Married,Scripted,English,Drama|Comedy|Romance,Ended,30.0,30.0,2014-07-17,2015-10-01,5.1,49,FX,US,,1704793887,https://www.tvmaze.com/shows/310/married
+311,Satisfaction,Scripted,English,Drama|Comedy|Romance,Ended,60.0,60.0,2014-07-17,2015-12-18,7.6,49,USA Network,US,,1731690594,https://www.tvmaze.com/shows/311/satisfaction
+312,You're the Worst,Scripted,English,Drama|Comedy|Romance,Ended,30.0,31.0,2014-07-17,2019-04-03,7.7,65,FXX,US,,1704794045,https://www.tvmaze.com/shows/312/youre-the-worst
+313,Plebs,Scripted,English,Comedy,Ended,30.0,30.0,2013-03-25,2022-12-08,7.2,96,ITV2,GB,,1704793820,https://www.tvmaze.com/shows/313/plebs
+314,VICE,News,English,Drama|Crime,Ended,30.0,30.0,2013-04-05,2023-06-25,7.6,91,Paramount+ with Showtime,US,,1689782439,https://www.tvmaze.com/shows/314/vice
+315,Archer,Animation,English,Comedy|Action|Espionage,Ended,,30.0,2009-09-17,2023-12-17,8.3,95,FXX,US,,1704793625,https://www.tvmaze.com/shows/315/archer
+316,The Missing,Scripted,English,Drama|Crime|Thriller,Ended,60.0,60.0,2014-10-28,2016-11-30,7.9,93,BBC One,GB,,1704793887,https://www.tvmaze.com/shows/316/the-missing
+317,Vicious,Scripted,English,Comedy,Ended,,30.0,2013-04-29,2016-12-16,8.0,92,ITV1,GB,,1704794901,https://www.tvmaze.com/shows/317/vicious
+318,Community,Scripted,English,Comedy,Ended,,30.0,2009-09-17,2015-06-02,8.3,99,,,Yahoo! View,1793611258,https://www.tvmaze.com/shows/318/community
+319,Cougar Town,Scripted,English,Comedy,Ended,30.0,30.0,2009-09-23,2015-03-31,7.5,76,TBS,US,,1704793703,https://www.tvmaze.com/shows/319/cougar-town
+320,The Fall,Scripted,English,Drama|Crime|Thriller,Ended,60.0,62.0,2013-05-13,2016-10-28,8.0,99,BBC Two,GB,,1746456085,https://www.tvmaze.com/shows/320/the-fall
+321,Arrested Development,Scripted,English,Comedy|Family,Ended,,30.0,2003-11-02,2019-03-15,8.2,99,,,Netflix,1723035830,https://www.tvmaze.com/shows/321/arrested-development
+322,Hit the Floor,Scripted,English,Drama|Romance|Sports,Ended,60.0,60.0,2013-05-27,2018-08-28,7.1,85,BET,US,,1764855316,https://www.tvmaze.com/shows/322/hit-the-floor
+323,White Collar,Scripted,English,Drama|Comedy|Crime,Ended,60.0,60.0,2009-10-23,2014-12-18,8.2,98,USA Network,US,,1779118434,https://www.tvmaze.com/shows/323/white-collar
+324,MasterChef,Reality,English,Food,Running,60.0,60.0,2010-07-27,,6.8,98,FOX,US,,1795287392,https://www.tvmaze.com/shows/324/masterchef
+325,Being Mary Jane,Scripted,English,Drama|Family,Ended,60.0,61.0,2013-07-02,2017-09-19,7.8,75,BET,US,,1704793405,https://www.tvmaze.com/shows/325/being-mary-jane
+326,Undercover Boss,Reality,English,,Running,60.0,60.0,2010-02-07,,6.1,98,CBS,US,,1794905317,https://www.tvmaze.com/shows/326/undercover-boss
+327,Inside Amy Schumer,Variety,English,Comedy,Ended,,29.0,2013-04-30,2022-11-10,5.6,64,,,Paramount+,1704794842,https://www.tvmaze.com/shows/327/inside-amy-schumer
+328,Midsomer Murders,Scripted,English,Drama|Crime|Mystery,Running,,116.0,1998-03-22,,7.9,99,,,Acorn TV,1794224826,https://www.tvmaze.com/shows/328/midsomer-murders
+329,Shark Tank,Reality,English,,Running,60.0,60.0,2009-08-09,,6.6,99,ABC,US,,1795437183,https://www.tvmaze.com/shows/329/shark-tank
+330,On the Menu,Reality,English,Food,Ended,60.0,60.0,2014-10-03,2014-12-05,,34,TNT,US,,1650422856,https://www.tvmaze.com/shows/330/on-the-menu
+331,Deal With It,Reality,English,,Ended,30.0,30.0,2013-07-17,2014-12-19,,31,TBS,US,,1704793631,https://www.tvmaze.com/shows/331/deal-with-it
+332,Alpha House,Scripted,English,Drama|Comedy,Ended,,27.0,2013-04-19,2014-10-24,7.1,63,,,Prime Video,1704793352,https://www.tvmaze.com/shows/332/alpha-house
+333,The Game,Scripted,English,Drama|Comedy|Sports,Ended,30.0,30.0,2006-10-01,2015-08-05,,79,,,Paramount+,1723035989,https://www.tvmaze.com/shows/333/the-game
+334,Drunk History,Variety,English,Comedy|History,Ended,30.0,30.0,2013-07-09,2019-08-06,6.2,95,Comedy Central,US,,1789262491,https://www.tvmaze.com/shows/334/drunk-history
+335,Sherlock,Scripted,English,Drama|Crime|Mystery,Ended,90.0,90.0,2010-07-25,2017-01-15,8.9,98,BBC One,GB,,1753373860,https://www.tvmaze.com/shows/335/sherlock
+336,Marvel's Agent Carter,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,2015-01-06,2016-03-01,8.0,91,ABC,US,,1792942130,https://www.tvmaze.com/shows/336/marvels-agent-carter
+337,Ramsay's Costa Del Nightmares,Reality,English,Food,Ended,60.0,60.0,2014-09-23,2014-10-14,6.7,71,Channel 4,GB,,1704795041,https://www.tvmaze.com/shows/337/ramsays-costa-del-nightmares
+338,Secrets and Lies,Scripted,English,Drama|Crime|Thriller,Ended,60.0,60.0,2015-03-01,2016-12-04,7.3,95,ABC,US,,1704794428,https://www.tvmaze.com/shows/338/secrets-and-lies
+339,American Crime,Scripted,English,Drama|Crime,Ended,60.0,60.0,2015-03-05,2017-04-30,7.8,76,ABC,US,,1766318983,https://www.tvmaze.com/shows/339/american-crime
+340,The Librarians,Scripted,English,Action|Adventure|Supernatural,Ended,60.0,60.0,2014-12-07,2018-02-07,7.3,97,TNT,US,,1759382467,https://www.tvmaze.com/shows/340/the-librarians
+341,Aquarius,Scripted,English,Drama|Crime,Ended,60.0,60.0,2015-05-28,2016-09-10,7.0,83,NBC,US,,1661936037,https://www.tvmaze.com/shows/341/aquarius
+342,Louie,Scripted,English,Drama|Comedy,Ended,30.0,30.0,2010-06-29,2015-05-28,7.9,49,FX,US,,1704794395,https://www.tvmaze.com/shows/342/louie
+343,Atlantis,Scripted,English,Drama|Adventure|Fantasy,Ended,60.0,61.0,2013-09-28,2015-05-16,7.1,76,BBC One,GB,,1764852033,https://www.tvmaze.com/shows/343/atlantis
+344,Rizzoli & Isles,Scripted,English,Drama|Crime,Ended,60.0,60.0,2010-07-12,2016-09-05,7.9,98,TNT,US,,1759224238,https://www.tvmaze.com/shows/344/rizzoli-isles
+345,Covert Affairs,Scripted,English,Drama|Action|Espionage,Ended,60.0,60.0,2010-07-13,2014-12-18,7.2,91,USA Network,US,,1772182864,https://www.tvmaze.com/shows/345/covert-affairs
+346,Hot in Cleveland,Scripted,English,Comedy,Ended,30.0,30.0,2010-06-16,2015-06-03,7.8,95,TV Land,US,,1772212093,https://www.tvmaze.com/shows/346/hot-in-cleveland
+347,It's Always Sunny in Philadelphia,Scripted,English,Comedy,To Be Determined,30.0,30.0,2005-08-04,,8.1,100,FXX,US,,1791874257,https://www.tvmaze.com/shows/347/its-always-sunny-in-philadelphia
+348,Melissa & Joey,Scripted,English,Comedy|Family,Ended,30.0,30.0,2010-08-17,2015-08-05,7.7,88,Freeform,US,,1783854152,https://www.tvmaze.com/shows/348/melissa-joey
+349,The Wrong Mans,Scripted,English,Comedy|Crime|Thriller,Ended,30.0,30.0,2013-09-24,2014-12-23,7.7,81,BBC Two,GB,,1704794884,https://www.tvmaze.com/shows/349/the-wrong-mans
+350,Last Comic Standing,Reality,English,Comedy,Ended,60.0,73.0,2003-06-10,2015-09-09,,84,NBC,US,,1793793317,https://www.tvmaze.com/shows/350/last-comic-standing
+351,Baby Daddy,Scripted,English,Comedy|Family,Ended,30.0,30.0,2012-06-20,2017-05-22,7.8,95,Freeform,US,,1752590339,https://www.tvmaze.com/shows/351/baby-daddy
+352,The Exes,Scripted,English,Comedy,Ended,30.0,30.0,2011-11-30,2015-09-16,7.3,91,TV Land,US,,1786881075,https://www.tvmaze.com/shows/352/the-exes
+353,Line of Duty,Scripted,English,Drama|Crime|Thriller,Running,60.0,62.0,2012-06-26,,8.6,99,BBC One,GB,,1790713078,https://www.tvmaze.com/shows/353/line-of-duty
+354,Ground Floor,Scripted,English,Comedy,Ended,30.0,30.0,2013-11-14,2015-02-10,7.5,92,TBS,US,,1704793843,https://www.tvmaze.com/shows/354/ground-floor
+355,Mike & Molly,Scripted,English,Comedy|Family|Romance,Ended,30.0,30.0,2010-09-20,2016-05-16,7.4,82,CBS,US,,1786289523,https://www.tvmaze.com/shows/355/mike-molly
+356,Man Down,Scripted,English,Comedy,Ended,30.0,31.0,2013-10-18,2017-11-29,7.9,90,Channel 4,GB,,1704794942,https://www.tvmaze.com/shows/356/man-down
+357,Perception,Scripted,English,Drama|Crime|Medical,Ended,60.0,60.0,2012-07-09,2015-03-17,7.8,89,TNT,US,,1786569032,https://www.tvmaze.com/shows/357/perception
+358,Spartacus: Gods of the Arena,Scripted,English,Drama|Action|History,Ended,60.0,60.0,2011-01-21,2011-02-25,8.4,99,STARZ,US,,1699828022,https://www.tvmaze.com/shows/358/spartacus-gods-of-the-arena
+359,TripTank,Animation,English,Comedy,Ended,30.0,30.0,2014-04-02,2016-08-22,6.4,60,Comedy Central,US,,1704793811,https://www.tvmaze.com/shows/359/triptank
+360,Ripper Street,Scripted,English,Drama|Crime|Mystery,Ended,60.0,62.0,2012-12-30,2016-10-12,8.0,93,BBC Two,GB,,1775057632,https://www.tvmaze.com/shows/360/ripper-street
+361,Saturday Night Live,Variety,English,Comedy|Music,Running,93.0,90.0,1975-10-11,,5.9,100,NBC,US,,1795475778,https://www.tvmaze.com/shows/361/saturday-night-live
+362,Switched at Birth,Scripted,English,Drama|Family,Ended,60.0,60.0,2011-06-06,2017-04-11,7.6,93,Freeform,US,,1764179291,https://www.tvmaze.com/shows/362/switched-at-birth
+363,Late Night with Seth Meyers,Talk Show,English,Comedy,Running,60.0,60.0,2014-02-24,,4.7,98,NBC,US,,1795145318,https://www.tvmaze.com/shows/363/late-night-with-seth-meyers
+364,Single Ladies,Scripted,English,Drama|Romance,Ended,60.0,60.0,2011-05-30,2015-04-22,,58,BET Her,US,,1782292032,https://www.tvmaze.com/shows/364/single-ladies
+365,The After,Scripted,English,Drama|Science-Fiction|Mystery,Ended,,60.0,2014-02-06,2014-02-06,7.8,95,,,Prime Video,1653771632,https://www.tvmaze.com/shows/365/the-after
+366,Sirens,Scripted,English,Comedy,Ended,30.0,30.0,2014-03-06,2015-04-14,7.7,92,USA Network,US,,1756388175,https://www.tvmaze.com/shows/366/sirens
+367,Six Feet Under,Scripted,English,Drama|Comedy,Ended,60.0,60.0,2001-06-03,2005-08-21,8.1,91,HBO,US,,1766860269,https://www.tvmaze.com/shows/367/six-feet-under
+368,Red Dwarf,Scripted,English,Comedy|Science-Fiction,Ended,,32.0,1988-02-15,2020-04-09,7.9,96,U&Dave,GB,,1784810611,https://www.tvmaze.com/shows/368/red-dwarf
+369,Wizards vs Aliens,Scripted,English,Fantasy|Science-Fiction,Ended,25.0,25.0,2012-10-29,2014-11-25,7.5,78,CBBC,GB,,1704794736,https://www.tvmaze.com/shows/369/wizards-vs-aliens
+370,Workaholics,Scripted,English,Comedy,Ended,30.0,30.0,2011-04-06,2017-03-15,7.3,82,Comedy Central,US,,1704793997,https://www.tvmaze.com/shows/370/workaholics
+371,The Red Road,Scripted,English,Drama|Crime|Family,Ended,60.0,60.0,2014-02-27,2015-05-07,7.4,93,SundanceTV,US,,1704793810,https://www.tvmaze.com/shows/371/the-red-road
+372,See Dad Run,Scripted,English,Comedy,Ended,30.0,30.0,2012-10-06,2014-12-04,5.8,58,nick@nite,US,,1704794746,https://www.tvmaze.com/shows/372/see-dad-run
+373,Moone Boy,Scripted,English,Comedy,Ended,30.0,30.0,2012-09-14,2015-04-06,7.4,62,Sky Showcase,GB,,1710732995,https://www.tvmaze.com/shows/373/moone-boy
+374,Inside No. 9,Scripted,English,Comedy|Thriller|Supernatural,Ended,30.0,30.0,2014-02-05,2024-06-12,8.0,93,BBC Two,GB,,1751335828,https://www.tvmaze.com/shows/374/inside-no-9
+375,Broad City,Scripted,English,Comedy,Ended,30.0,30.0,2014-01-22,2019-03-28,8.0,92,Comedy Central,US,,1775921805,https://www.tvmaze.com/shows/375/broad-city
+376,Portlandia,Scripted,English,Comedy,Ended,30.0,30.0,2011-01-21,2018-03-22,6.7,95,IFC,US,,1794683371,https://www.tvmaze.com/shows/376/portlandia
+377,The Musketeers,Scripted,English,Drama|Action|Adventure,Ended,60.0,60.0,2014-01-19,2016-08-01,8.0,87,BBC One,GB,,1740425392,https://www.tvmaze.com/shows/377/the-musketeers
+378,Citizen Khan,Scripted,English,Comedy|Family,Ended,30.0,30.0,2012-08-27,2016-12-23,7.1,61,BBC One,GB,,1781126711,https://www.tvmaze.com/shows/378/citizen-khan
+379,Mythbusters,Documentary,English,Adventure|Nature|DIY,Ended,60.0,60.0,2003-01-23,2018-02-21,8.0,95,Science,US,,1783967506,https://www.tvmaze.com/shows/379/mythbusters
+380,Birds of a Feather,Scripted,English,Comedy,Ended,30.0,30.0,1989-10-16,2020-12-24,7.3,73,ITV1,GB,,1788851715,https://www.tvmaze.com/shows/380/birds-of-a-feather
+382,Aqua Teen Hunger Force,Animation,English,Comedy|Action|Adventure,Ended,15.0,15.0,2000-12-30,2023-12-17,7.6,85,Adult Swim,US,,1791985131,https://www.tvmaze.com/shows/382/aqua-teen-hunger-force
+383,Peep Show,Scripted,English,Comedy,Ended,30.0,30.0,2003-09-19,2015-12-16,7.9,94,Channel 4,GB,,1704794362,https://www.tvmaze.com/shows/383/peep-show
+384,Major Crimes,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2012-08-13,2018-01-09,8.0,98,TNT,US,,1756333747,https://www.tvmaze.com/shows/384/major-crimes
+385,Mad Men,Scripted,English,Drama,Ended,60.0,60.0,2007-07-19,2015-05-17,8.1,99,AMC,US,,1775201395,https://www.tvmaze.com/shows/385/mad-men
+386,Yonderland,Scripted,English,Comedy|Fantasy,Ended,30.0,31.0,2013-11-10,2016-12-24,7.8,74,Sky Showcase,GB,,1789648011,https://www.tvmaze.com/shows/386/yonderland
+387,Rookie Blue,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2010-06-24,2015-07-29,7.5,98,Global,CA,,1767029094,https://www.tvmaze.com/shows/387/rookie-blue
+388,The Late Late Show with Craig Ferguson,Talk Show,English,Comedy,Ended,60.0,60.0,2005-01-03,2015-03-06,7.0,92,CBS,US,,1772985538,https://www.tvmaze.com/shows/388/the-late-late-show-with-craig-ferguson
+390,Last Call with Carson Daly,Talk Show,English,,Ended,30.0,30.0,2002-01-08,2019-05-23,,89,NBC,US,,1600710811,https://www.tvmaze.com/shows/390/last-call-with-carson-daly
+391,Life Is Toff,Documentary,English,,Ended,30.0,30.0,2014-10-28,2014-12-02,,70,BBC Three,GB,,1609477093,https://www.tvmaze.com/shows/391/life-is-toff
+392,Hunted,Scripted,English,Drama|Action|Thriller,Ended,60.0,60.0,2012-10-04,2012-11-22,8.0,86,BBC One,GB,,1704793910,https://www.tvmaze.com/shows/392/hunted
+393,Video Game High School,Scripted,English,Comedy|Action|Science-Fiction,Ended,30.0,30.0,2012-05-11,2014-11-17,7.5,47,,,rocketjump.com,1704794527,https://www.tvmaze.com/shows/393/video-game-high-school
+394,Call the Midwife,Scripted,English,Drama|Medical|History,Running,60.0,60.0,2012-01-15,,8.1,99,BBC One,GB,,1780610805,https://www.tvmaze.com/shows/394/call-the-midwife
+395,Longmire,Scripted,English,Drama|Thriller|Western,Ended,,60.0,2012-06-03,2017-11-17,8.3,93,,,Netflix,1734304887,https://www.tvmaze.com/shows/395/longmire
+396,Gravity Falls,Animation,English,Adventure|Mystery|Supernatural,Ended,30.0,30.0,2012-06-15,2016-02-15,8.8,89,Disney XD,US,,1791246120,https://www.tvmaze.com/shows/396/gravity-falls
+397,Don't Trust the B---- in Apartment 23,Scripted,English,Comedy,Ended,30.0,30.0,2012-04-11,2014-09-06,7.6,95,ABC,US,,1732470362,https://www.tvmaze.com/shows/397/dont-trust-the-b-in-apartment-23
+398,Duck Dynasty,Reality,English,Comedy|Adventure,Ended,30.0,31.0,2012-03-21,2017-03-29,5.8,85,A&E,US,,1761040804,https://www.tvmaze.com/shows/398/duck-dynasty
+399,The Client List,Scripted,English,Drama|Romance,Ended,60.0,60.0,2012-04-08,2013-06-16,6.7,93,Lifetime,US,,1704793577,https://www.tvmaze.com/shows/399/the-client-list
+400,Copper,Scripted,English,Drama|Crime,Ended,60.0,60.0,2012-08-19,2013-09-22,7.7,90,BBC America,US,,1704793381,https://www.tvmaze.com/shows/400/copper
+401,Smash,Scripted,English,Drama,Ended,60.0,60.0,2012-02-06,2013-05-26,7.9,85,NBC,US,,1792610022,https://www.tvmaze.com/shows/401/smash
+402,A Young Doctor's Notebook,Scripted,English,Drama|Comedy,Ended,30.0,30.0,2012-12-06,2013-12-12,7.5,81,Sky Arts,GB,,1749224843,https://www.tvmaze.com/shows/402/a-young-doctors-notebook
+403,Touch,Scripted,English,Drama|Science-Fiction|Mystery,Ended,60.0,60.0,2012-01-25,2013-05-10,7.5,94,FOX,US,,1782100738,https://www.tvmaze.com/shows/403/touch
+404,Magic City,Scripted,English,Drama|Crime|Mystery,Ended,60.0,60.0,2012-03-30,2013-08-09,7.9,81,STARZ,US,,1787863774,https://www.tvmaze.com/shows/404/magic-city
+405,Derek,Scripted,English,Drama|Comedy,Ended,30.0,30.0,2012-04-12,2014-12-22,8.0,61,Channel 4,GB,,1704793334,https://www.tvmaze.com/shows/405/derek
+406,Men at Work,Scripted,English,Drama|Comedy,Ended,30.0,30.0,2012-05-24,2014-03-12,6.9,48,TBS,US,,1704794742,https://www.tvmaze.com/shows/406/men-at-work
+407,Mortal Kombat: Legacy,Scripted,English,Action|Adventure|Fantasy,Ended,10.0,10.0,2011-04-12,2013-09-26,7.3,81,,,Machinima,1717690564,https://www.tvmaze.com/shows/407/mortal-kombat-legacy
+408,Jane by Design,Scripted,English,Drama|Comedy,Ended,60.0,60.0,2012-01-03,2012-07-31,7.8,48,Freeform,US,,1764855459,https://www.tvmaze.com/shows/408/jane-by-design
+409,Invader ZIM,Animation,English,Children,Ended,30.0,30.0,2001-03-30,2019-08-16,7.8,92,Nickelodeon,US,,1735835078,https://www.tvmaze.com/shows/409/invader-zim
+410,Rival Survival,Reality,English,,Ended,60.0,,,,,38,Discovery,US,,1504815358,https://www.tvmaze.com/shows/410/rival-survival
+411,The Cape,Scripted,English,Drama|Crime|Supernatural,Ended,60.0,60.0,2011-01-09,2011-03-11,6.5,94,NBC,US,,1704793731,https://www.tvmaze.com/shows/411/the-cape
+412,Fairly Legal,Scripted,English,Drama,Ended,60.0,60.0,2011-01-20,2012-06-15,7.8,90,USA Network,US,,1766508835,https://www.tvmaze.com/shows/412/fairly-legal
+413,Whitney,Scripted,English,Comedy|Romance,Ended,30.0,30.0,2011-09-22,2013-03-27,7.3,61,NBC,US,,1780835726,https://www.tvmaze.com/shows/413/whitney
+414,Duckman: Private Dick/Family Man,Animation,English,Comedy|Crime,Ended,30.0,30.0,1994-03-05,1997-09-06,7.4,88,USA Network,US,,1617954639,https://www.tvmaze.com/shows/414/duckman-private-dickfamily-man
+415,Olive Kitteridge,Scripted,English,Drama,Ended,60.0,60.0,2014-11-02,2014-11-03,8.0,85,HBO,US,,1745945790,https://www.tvmaze.com/shows/415/olive-kitteridge
+416,Are You the One?,Reality,English,Romance,Ended,,61.0,2014-01-21,2023-03-15,5.5,81,,,Paramount+,1720190865,https://www.tvmaze.com/shows/416/are-you-the-one
+417,MasterChef Junior,Reality,English,Children|Food,Ended,60.0,60.0,2013-09-27,2024-05-20,6.9,94,FOX,US,,1789233416,https://www.tvmaze.com/shows/417/masterchef-junior
+418,Chrisley Knows Best,Reality,English,Comedy|Family,Ended,30.0,30.0,2014-03-11,2023-03-27,5.4,80,USA Network,US,,1704794992,https://www.tvmaze.com/shows/418/chrisley-knows-best
+419,Snooki & JWoww,Reality,English,,Ended,30.0,46.0,2012-06-21,2015-02-04,5.4,77,MTV,US,,1704794709,https://www.tvmaze.com/shows/419/snooki-jwoww
+420,Slednecks,Reality,English,,Ended,30.0,30.0,2014-10-30,2014-12-18,,45,MTV,US,,1504823970,https://www.tvmaze.com/shows/420/slednecks
+421,Rugrats,Animation,English,Comedy|Children,Ended,30.0,30.0,1991-08-11,2006-09-05,7.2,91,Nickelodeon,US,,1704794209,https://www.tvmaze.com/shows/421/rugrats
+422,A Gifted Man,Scripted,English,Drama|Fantasy|Medical,Ended,60.0,60.0,2011-09-23,2012-03-02,7.7,48,CBS,US,,1789746233,https://www.tvmaze.com/shows/422/a-gifted-man
+423,Life's Too Short,Scripted,English,Comedy,Ended,30.0,30.0,2011-11-10,2013-03-30,7.3,89,BBC Two,GB,,1773413118,https://www.tvmaze.com/shows/423/lifes-too-short
+424,Kourtney & Khloe Take the Hamptons,Reality,English,,Ended,60.0,60.0,2014-11-02,2015-01-04,,78,E!,US,,1718383184,https://www.tvmaze.com/shows/424/kourtney-khloe-take-the-hamptons
+425,The Passing Bells,Scripted,English,Drama|War|History,Ended,30.0,30.0,2014-11-03,2014-11-07,7.0,57,BBC One,GB,,1747089769,https://www.tvmaze.com/shows/425/the-passing-bells
+426,The People Remember,Documentary,English,History,Ended,45.0,46.0,2014-11-03,2016-11-13,,57,BBC One,GB,,1705350546,https://www.tvmaze.com/shows/426/the-people-remember
+427,Buffy the Vampire Slayer,Scripted,English,Drama|Action|Supernatural,Ended,60.0,60.0,1997-03-10,2003-05-20,8.5,99,UPN,US,,1791107488,https://www.tvmaze.com/shows/427/buffy-the-vampire-slayer
+428,Angel,Scripted,English,Drama|Action|Supernatural,Ended,60.0,60.0,1999-10-05,2004-05-19,8.1,98,The WB,US,,1753563835,https://www.tvmaze.com/shows/428/angel
+429,Farscape,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,1999-03-19,2003-03-21,8.6,97,Syfy,US,,1782551486,https://www.tvmaze.com/shows/429/farscape
+430,The X-Files,Scripted,English,Drama|Crime|Science-Fiction,Ended,60.0,60.0,1993-09-10,2018-03-21,8.6,99,FOX,US,,1771949760,https://www.tvmaze.com/shows/430/the-x-files
+431,Friends,Scripted,English,Comedy|Romance,Ended,30.0,30.0,1994-09-22,2004-05-06,8.5,99,NBC,US,,1793469984,https://www.tvmaze.com/shows/431/friends
+432,Dollhouse,Scripted,English,Action|Science-Fiction,Ended,60.0,60.0,2009-02-13,2010-01-29,7.8,96,FOX,US,,1770822196,https://www.tvmaze.com/shows/432/dollhouse
+433,Caprica,Scripted,English,Drama|Science-Fiction,Ended,60.0,60.0,2010-01-22,2011-01-04,7.4,86,Syfy,US,,1785864828,https://www.tvmaze.com/shows/433/caprica
+434,Warehouse 13,Scripted,English,Drama|Science-Fiction|Mystery,Ended,60.0,61.0,2009-07-07,2014-05-19,8.3,97,Syfy,US,,1789803151,https://www.tvmaze.com/shows/434/warehouse-13
+435,Smallville,Scripted,English,Drama|Adventure|Science-Fiction,Ended,60.0,60.0,2001-10-16,2011-05-13,8.1,99,The CW,US,,1758208595,https://www.tvmaze.com/shows/435/smallville
+436,Dead Like Me,Scripted,English,Drama|Comedy|Supernatural,Ended,60.0,61.0,2003-06-27,2004-10-31,8.1,91,Paramount+ with Showtime,US,,1704793504,https://www.tvmaze.com/shows/436/dead-like-me
+437,Xena: Warrior Princess,Scripted,English,Action|Adventure|Fantasy,Ended,60.0,60.0,1995-09-04,2001-06-25,7.7,96,Syndication,US,,1761504206,https://www.tvmaze.com/shows/437/xena-warrior-princess
+438,The Adventures of Sinbad,Scripted,English,Action|Adventure,Ended,60.0,60.0,1996-09-28,1998-05-24,6.0,94,Syndication,US,,1704793575,https://www.tvmaze.com/shows/438/the-adventures-of-sinbad
+439,Wolverine and the X-Men,Animation,English,Action|Adventure|Science-Fiction,Ended,30.0,30.0,2008-09-08,2009-10-23,7.7,92,Nicktoons,US,,1704794194,https://www.tvmaze.com/shows/439/wolverine-and-the-x-men
+440,Everwood,Scripted,English,Drama|Family|Romance,Ended,60.0,60.0,2002-09-16,2006-06-05,7.6,93,The WB,US,,1704793715,https://www.tvmaze.com/shows/440/everwood
+443,Once a Thief,Scripted,English,Comedy|Action|Thriller,Ended,60.0,60.0,1997-09-15,1998-05-02,7.0,43,CTV,CA,,1756340471,https://www.tvmaze.com/shows/443/once-a-thief
+444,XIII: The Series,Scripted,English,Action|Adventure,Ended,60.0,60.0,2011-04-20,2012-11-19,7.8,88,Showcase,CA,,1704793980,https://www.tvmaze.com/shows/444/xiii-the-series
+445,Metal Hurlant Chronicles,Scripted,English,Action|Adventure|Science-Fiction,Ended,30.0,30.0,2012-10-27,2014-05-12,6.4,48,France 4,FR,,1704794739,https://www.tvmaze.com/shows/445/metal-hurlant-chronicles
+446,Defying Gravity,Scripted,English,Drama|Science-Fiction|Thriller,Ended,60.0,60.0,2009-08-02,2009-10-23,7.8,81,CTV,CA,,1704793508,https://www.tvmaze.com/shows/446/defying-gravity
+447,Charlie's Angels,Scripted,English,Action|Crime,Ended,60.0,60.0,2011-09-22,2011-12-18,7.7,81,ABC,US,,1773324055,https://www.tvmaze.com/shows/447/charlies-angels
+448,The Universe,Documentary,English,Adventure|Family|Science-Fiction,Ended,60.0,60.0,2007-05-29,2015-05-23,7.8,97,Vice TV,US,,1741785376,https://www.tvmaze.com/shows/448/the-universe
+449,True Justice,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,2012-03-30,2013-03-29,5.7,71,REELZ,US,,1704794207,https://www.tvmaze.com/shows/449/true-justice
+450,Wolf Lake,Scripted,English,Drama|Crime|Supernatural,Ended,60.0,60.0,2001-09-19,2002-05-01,7.8,72,UPN,US,,1683493476,https://www.tvmaze.com/shows/450/wolf-lake
+451,Knight Rider,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,2008-02-17,2009-03-04,6.9,90,NBC,US,,1752318541,https://www.tvmaze.com/shows/451/knight-rider
+452,The Deep,Scripted,English,Drama,Ended,60.0,60.0,2010-08-03,2010-08-31,7.5,48,BBC One,GB,,1704793614,https://www.tvmaze.com/shows/452/the-deep
+453,Tales from the Crypt,Scripted,English,Comedy|Fantasy|Horror,Ended,30.0,30.0,1989-06-10,1996-07-19,8.0,95,HBO,US,,1746067960,https://www.tvmaze.com/shows/453/tales-from-the-crypt
+454,Pacific Blue,Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,1996-03-02,2000-04-09,6.5,79,USA Network,US,,1756342803,https://www.tvmaze.com/shows/454/pacific-blue
+455,Blade: The Series,Scripted,English,Action|Supernatural,Ended,60.0,60.0,2006-06-28,2006-09-13,6.8,95,Paramount Network,US,,1756342457,https://www.tvmaze.com/shows/455/blade-the-series
+456,Moonlight,Scripted,English,Drama|Horror|Romance,Ended,60.0,60.0,2007-09-28,2008-05-16,7.9,90,CBS,US,,1756342292,https://www.tvmaze.com/shows/456/moonlight
+457,The Event,Scripted,English,Drama|Action|Science-Fiction,Ended,60.0,60.0,2010-09-20,2011-05-23,7.3,95,NBC,US,,1730238935,https://www.tvmaze.com/shows/457/the-event
+458,FlashForward,Scripted,English,Drama|Crime|Science-Fiction,Ended,60.0,60.0,2009-09-24,2010-05-27,7.8,91,ABC,US,,1704793570,https://www.tvmaze.com/shows/458/flashforward
+459,Harper's Island,Scripted,English,Horror|Thriller|Mystery,Ended,60.0,60.0,2009-04-09,2009-07-11,7.7,61,CBS,US,,1704794203,https://www.tvmaze.com/shows/459/harpers-island
+460,Adventure Inc.,Scripted,English,Action|Adventure,Ended,60.0,60.0,2002-09-30,2003-05-12,7.3,55,Syndication,US,,1704793574,https://www.tvmaze.com/shows/460/adventure-inc
+461,Legend of the Seeker,Scripted,English,Action|Adventure|Fantasy,Ended,60.0,60.0,2008-11-01,2010-05-22,7.9,96,Syndication,US,,1766163699,https://www.tvmaze.com/shows/461/legend-of-the-seeker
+462,TekWar,Scripted,English,Action|Science-Fiction,Ended,60.0,60.0,1994-12-22,1996-02-09,7.4,72,Syndication,US,,1711555018,https://www.tvmaze.com/shows/462/tekwar
+463,Dark Skies,Scripted,English,Drama|Science-Fiction,Ended,60.0,60.0,1996-09-21,1997-05-31,7.8,89,NBC,US,,1618001543,https://www.tvmaze.com/shows/463/dark-skies
+464,The Pacific,Scripted,English,Drama|Action|War,Ended,60.0,60.0,2010-03-14,2010-05-16,8.3,91,HBO,US,,1793268984,https://www.tvmaze.com/shows/464/the-pacific
+465,Band of Brothers,Scripted,English,Drama|Action|War,Ended,60.0,59.0,2001-09-09,2001-11-04,9.0,98,HBO,US,,1748439207,https://www.tvmaze.com/shows/465/band-of-brothers
+466,Columbo,Scripted,English,Drama|Crime|Mystery,Ended,120.0,108.0,1968-02-20,2003-01-30,8.0,96,ABC,US,,1784307866,https://www.tvmaze.com/shows/466/columbo
+467,Blood Ties,Scripted,English,Fantasy|Horror|Mystery,Ended,60.0,60.0,2007-03-11,2007-12-07,7.9,97,Lifetime,US,,1737600619,https://www.tvmaze.com/shows/467/blood-ties
+468,"Walker, Texas Ranger",Scripted,English,Drama|Action|Crime,Ended,60.0,60.0,1993-04-21,2001-05-19,7.0,97,CBS,US,,1785382659,https://www.tvmaze.com/shows/468/walker-texas-ranger
+469,ReGenesis,Scripted,English,Drama|Science-Fiction|Mystery,Ended,60.0,60.0,2004-10-24,2008-05-25,7.8,94,Crave,CA,,1736402279,https://www.tvmaze.com/shows/469/regenesis
+470,The Prisoner,Scripted,English,Drama|Science-Fiction|Mystery,Ended,50.0,50.0,1967-10-01,1968-02-04,8.0,96,ITV1,GB,,1704794808,https://www.tvmaze.com/shows/470/the-prisoner
+471,The Prisoner,Scripted,English,Drama|Science-Fiction|Mystery,Ended,60.0,60.0,2009-11-15,2009-11-17,6.9,98,AMC,US,,1712728949,https://www.tvmaze.com/shows/471/the-prisoner
+472,X-Men,Animation,English,Children|Science-Fiction,Ended,30.0,30.0,1992-10-31,1997-09-20,8.0,95,FOX,US,,1756575264,https://www.tvmaze.com/shows/472/x-men
+473,Veronica Mars,Scripted,English,Drama|Crime|Mystery,Ended,,60.0,2004-09-22,2019-07-19,8.5,98,,,Hulu,1756332989,https://www.tvmaze.com/shows/473/veronica-mars
+474,Charlie's Angels,Scripted,English,Action|Adventure,Ended,60.0,60.0,1976-09-22,1981-06-24,7.8,97,ABC,US,,1784764917,https://www.tvmaze.com/shows/474/charlies-angels
+475,Babylon 5,Scripted,English,Drama|Action|Science-Fiction,Ended,60.0,60.0,1993-02-22,2023-08-15,8.4,96,TNT,US,,1790207169,https://www.tvmaze.com/shows/475/babylon-5
+476,Dead Set,Scripted,English,Comedy|Fantasy|Horror,Ended,30.0,36.0,2008-10-27,2008-10-31,7.4,85,E4,GB,,1706200185,https://www.tvmaze.com/shows/476/dead-set
+477,Son of the Beach,Scripted,English,Comedy,Ended,30.0,30.0,2000-03-14,2002-10-01,6.8,86,FX,US,,1787279172,https://www.tvmaze.com/shows/477/son-of-the-beach
+478,Terminator: The Sarah Connor Chronicles,Scripted,English,Drama|Action|Science-Fiction,Ended,60.0,60.0,2008-01-13,2009-04-10,8.2,92,FOX,US,,1734115791,https://www.tvmaze.com/shows/478/terminator-the-sarah-connor-chronicles
+479,Witchblade,Scripted,English,Action|Crime|Supernatural,Ended,60.0,60.0,2000-08-27,2002-08-26,7.7,81,TNT,US,,1756339755,https://www.tvmaze.com/shows/479/witchblade
+480,Birds of Prey,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,2002-10-09,2003-02-19,7.7,92,The WB,US,,1723056432,https://www.tvmaze.com/shows/480/birds-of-prey
+481,The Batman,Animation,English,Action|Adventure|Science-Fiction,Ended,30.0,30.0,2004-09-11,2008-03-08,7.7,80,The CW,US,,1704793623,https://www.tvmaze.com/shows/481/the-batman
+482,Masters of Horror,Scripted,English,Horror,Ended,60.0,60.0,2005-10-28,2007-02-02,7.5,87,Paramount+ with Showtime,US,,1789911763,https://www.tvmaze.com/shows/482/masters-of-horror
+483,The 4400,Scripted,English,Drama|Science-Fiction|Mystery,Ended,60.0,61.0,2004-07-11,2007-09-16,7.6,96,USA Network,US,,1786044488,https://www.tvmaze.com/shows/483/the-4400
+484,Painkiller Jane,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,2007-04-13,2007-09-21,7.1,91,Syfy,US,,1704794440,https://www.tvmaze.com/shows/484/painkiller-jane
+485,Day Break,Scripted,English,Drama|Science-Fiction|Thriller,Ended,60.0,60.0,2006-11-15,2007-03-02,7.8,73,ABC,US,,1790311189,https://www.tvmaze.com/shows/485/day-break
+486,Gene Roddenberry's Andromeda,Scripted,English,Action|Science-Fiction,Ended,60.0,60.0,2000-10-02,2005-05-13,7.7,97,Syfy,US,,1782551709,https://www.tvmaze.com/shows/486/gene-roddenberrys-andromeda
+487,Harsh Realm,Scripted,English,Drama|Action|Science-Fiction,Ended,60.0,60.0,1999-10-08,2000-05-19,7.0,56,FOX,US,,1756388936,https://www.tvmaze.com/shows/487/harsh-realm
+488,Naruto: Shippūden,Animation,Japanese,Action|Adventure|Anime|Fantasy,Ended,30.0,30.0,2007-02-15,2017-03-23,8.2,98,TV Tokyo,JP,Crunchyroll,1769447057,https://www.tvmaze.com/shows/488/naruto-shippuden
+489,Sonic Boom,Animation,English,Comedy|Action|Children,Ended,30.0,22.0,2014-11-08,2017-11-18,4.6,70,Boomerang,US,,1769215788,https://www.tvmaze.com/shows/489/sonic-boom
+490,Star Trek,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,1966-09-08,1969-06-03,8.4,99,NBC,US,,1794967243,https://www.tvmaze.com/shows/490/star-trek
+491,Star Trek: The Next Generation,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,1987-09-28,1994-05-23,8.8,98,Syndication,US,,1786431151,https://www.tvmaze.com/shows/491/star-trek-the-next-generation
+492,Star Trek: Voyager,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,1995-01-16,2001-05-23,8.3,99,UPN,US,,1782547500,https://www.tvmaze.com/shows/492/star-trek-voyager
+493,Star Trek: Deep Space Nine,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,1993-01-03,1999-06-02,8.4,98,Syndication,US,,1757748543,https://www.tvmaze.com/shows/493/star-trek-deep-space-nine
+494,V,Scripted,English,Drama|Adventure|Science-Fiction,Ended,60.0,60.0,2009-11-03,2011-03-15,7.5,92,ABC,US,,1754372055,https://www.tvmaze.com/shows/494/v
+495,Naruto,Animation,Japanese,Action|Adventure|Anime|Fantasy,Ended,30.0,30.0,2002-10-03,2010-07-31,7.8,99,TV Tokyo,JP,Crunchyroll,1790738491,https://www.tvmaze.com/shows/495/naruto
+496,100 Things to Do Before High School,Scripted,English,Comedy|Children,Ended,30.0,30.0,2014-11-11,2016-02-27,6.5,77,Nickelodeon,US,,1715275408,https://www.tvmaze.com/shows/496/100-things-to-do-before-high-school
+497,Strip the Cosmos,Documentary,English,Mystery|Nature|History,Ended,,55.0,2014-11-12,2020-11-18,7.2,94,Science,US,,1739174494,https://www.tvmaze.com/shows/497/strip-the-cosmos
+498,Dogs of War,Reality,English,War,Ended,60.0,60.0,2014-11-11,2014-12-07,,47,A&E,US,,1704795226,https://www.tvmaze.com/shows/498/dogs-of-war
+499,Married... with Children,Scripted,English,Comedy|Family,Ended,30.0,30.0,1987-04-05,1997-06-09,8.2,93,FOX,US,,1795338650,https://www.tvmaze.com/shows/499/married-with-children
+500,Mutant X,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,2001-10-06,2004-05-17,6.9,59,Syndication,US,,1766502020,https://www.tvmaze.com/shows/500/mutant-x
+501,Northern Exposure,Scripted,English,Drama|Comedy,Ended,60.0,60.0,1990-07-12,1995-07-26,8.2,88,CBS,US,,1704794225,https://www.tvmaze.com/shows/501/northern-exposure
+502,The Lost World,Scripted,English,Action|Adventure|Science-Fiction,Ended,60.0,60.0,1999-04-03,2002-05-13,7.9,84,Syndication,US,,1729118405,https://www.tvmaze.com/shows/502/the-lost-world
+503,The Lost Room,Scripted,English,Drama|Science-Fiction|Thriller,Ended,90.0,90.0,2006-12-11,2006-12-13,8.0,92,Syfy,US,,1704793990,https://www.tvmaze.com/shows/503/the-lost-room
+504,Batman Beyond,Animation,English,Action|Adventure|Science-Fiction,Ended,30.0,30.0,1999-01-10,2001-12-18,8.0,85,The WB,US,,1704793633,https://www.tvmaze.com/shows/504/batman-beyond
+505,Justice League Unlimited,Animation,English,Action|Adventure|Science-Fiction,Ended,30.0,30.0,2004-07-31,2006-05-13,7.9,94,Cartoon Network,US,,1739585990,https://www.tvmaze.com/shows/505/justice-league-unlimited
+506,Charmed,Scripted,English,Drama|Mystery|Supernatural,Ended,60.0,60.0,1998-10-07,2006-05-21,8.2,99,The WB,US,,1792015269,https://www.tvmaze.com/shows/506/charmed
+507,Angels in America,Scripted,English,Drama|Fantasy,Ended,60.0,60.0,2003-12-07,2003-12-14,8.0,85,HBO,US,,1704793315,https://www.tvmaze.com/shows/507/angels-in-america
+508,The Grid,Scripted,English,Drama|Thriller,Ended,60.0,60.0,2004-07-19,2004-08-09,7.9,45,TNT,US,,1650142228,https://www.tvmaze.com/shows/508/the-grid
+509,Mr. Sunshine,Scripted,English,Comedy|Sports,Ended,30.0,30.0,2011-02-09,2012-01-01,6.9,59,ABC,US,,1707973775,https://www.tvmaze.com/shows/509/mr-sunshine
+510,Breaking In,Scripted,English,Comedy|Action|Crime,Ended,30.0,30.0,2011-04-06,2012-08-22,7.4,96,FOX,US,,1704793317,https://www.tvmaze.com/shows/510/breaking-in
+511,The Chicago Code,Scripted,English,Drama,Ended,60.0,60.0,2011-02-07,2011-05-23,7.7,96,FOX,US,,1704793347,https://www.tvmaze.com/shows/511/the-chicago-code
+512,Up All Night,Scripted,English,Comedy,Ended,30.0,30.0,2011-09-14,2012-12-13,6.6,58,NBC,US,,1749600739,https://www.tvmaze.com/shows/512/up-all-night
+513,The Nine Lives of Chloe King,Scripted,English,Drama|Action|Supernatural,Ended,60.0,60.0,2011-06-14,2011-08-16,6.9,90,Freeform,US,,1756342638,https://www.tvmaze.com/shows/513/the-nine-lives-of-chloe-king
+514,Jessie,Scripted,English,Comedy,Ended,30.0,30.0,2011-09-30,2015-10-16,7.4,72,Disney Channel,US,,1713821985,https://www.tvmaze.com/shows/514/jessie

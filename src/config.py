@@ -1,9 +1,8 @@
 import json
-import os
-from datetime import datetime
 from pathlib import Path
 
 from decouple import config
+
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"

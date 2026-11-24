@@ -1,3 +1,4 @@
+from typing import Any
 import json
 import time
 
@@ -20,7 +21,7 @@ class ApiError(Exception):
     pass
 
 
-def fetch_page(session: Session, page: int) -> list[str]:
+def fetch_page(session: Session, page: int) -> list[dict[str, Any]]:
     """Fetch one page of shows"""
 
     params = {"page": page}
@@ -49,7 +50,7 @@ def fetch_page(session: Session, page: int) -> list[str]:
     raise ApiError(f"Page {page} failed after {MAX_RETRIES} attempts")
 
 
-def collect_shows(max_records):
+def collect_shows(max_records: int) -> list[dict[str, Any]]:
     """Request pages until at least max_records shows are collected"""
 
     shows, page = [], 0
@@ -65,7 +66,7 @@ def collect_shows(max_records):
     return shows[:max_records], page
 
 
-def flatten_show(show):
+def flatten_show(show: dict[str, Any]) -> dict[str, Any]:
     """Turn one nested API object into a flat record"""
 
     network = show.get("network") or {}
@@ -93,7 +94,7 @@ def flatten_show(show):
     }
 
 
-def save_raw(shows):
+def save_raw(shows: list[dict, Any]):
     ensure_dirs()
     with open(RAW_API_JSON, "w", encoding="utf-8") as f:
         json.dump(shows, f, ensure_ascii=False)
