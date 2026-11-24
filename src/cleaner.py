@@ -6,7 +6,7 @@ from src.config import DATA_DIR
 CLEAN_CSV = DATA_DIR / "clean_data.csv"
 
 
-def run_cleaning(df: pd.DataFrame):
+def run_cleaning(df: pd.DataFrame) -> pd.DataFrame:
     """Clean and transform validated data. Returns clean dataframe and saves it to csv"""
 
     df = df.copy()
@@ -133,7 +133,6 @@ def run_cleaning(df: pd.DataFrame):
             "url",
             "rating_band",
             "is_long_runtime",
-            "runtime_zscore",
             "runtime_imputed",
         ]
     ]

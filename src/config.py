@@ -19,35 +19,11 @@ KAFKA_TOPIC = config("KAFKA_TOPIC", cast=str, default="tvmaze_shows")
 
 RAW_API_JSON = DATA_DIR / "raw_api_response.json"   
 RAW_CSV = DATA_DIR / "raw_data.csv"                 
-# CONSUMED_JSONL = DATA_DIR / "consumed_messages.jsonl"
-# VALID_JSONL = DATA_DIR / "valid_records.jsonl"
-# INVALID_CSV = DATA_DIR / "invalid_records.csv"
-# CLEAN_CSV = DATA_DIR / "clean_data.csv"
-# DB_PATH = DATA_DIR / "output.db"
-# STATS_JSON = DATA_DIR / "pipeline_stats.json"
 
 
 def ensure_dirs():
     DATA_DIR.mkdir(exist_ok=True)
     FIGURES_DIR.mkdir(exist_ok=True)
-
-
-# def read_stats():
-#     if STATS_JSON.exists():
-#         with open(STATS_JSON, encoding="utf-8") as f:
-#             return json.load(f)
-#     return {}
-
-
-# def update_stats(stage, values):
-#     """Store the counts of one pipeline stage so verify.py can compare them."""
-#     ensure_dirs()
-#     stats = read_stats()
-#     values = dict(values)
-#     values["finished_at"] = datetime.now().isoformat(timespec="seconds")
-#     stats[stage] = values
-#     with open(STATS_JSON, "w", encoding="utf-8") as f:
-#         json.dump(stats, f, indent=2)
 
 
 def _json_default(obj):
