@@ -39,7 +39,6 @@
 | `run_years` | REAL | Yes | Years between `premiered` and `ended`; NULL if not ended |
 | `rating_band` | TEXT | No | `Unrated` if no rating, `Low` below 6, `Medium` below 7.5, otherwise `High` |
 | `is_long_runtime` | INTEGER | No | 1 if `runtime >= 60`, otherwise 0 |
-| `runtime_zscore` | REAL | Yes | `(runtime - mean) / standard deviation` |
 | `runtime_imputed` | BOOLEAN | No | True if `runtime` was missing and filled |
 
 ### Table constraints
